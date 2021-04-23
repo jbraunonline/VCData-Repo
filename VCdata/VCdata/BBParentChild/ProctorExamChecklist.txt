@@ -1,0 +1,51 @@
+﻿Update CMR ~/CMR/UploadCMR.aspx
+MasterProctorDates  (Burt) ~/MasterExamDates/AddMasterExamDates.aspx
+Update Passwords ~/BBParentChild/AddMasterExamPasswords.aspx
+Copy OL_ExamData from VC to VC1
+   Select * into [VC_VCData].[dbo].[OL_MasterExam] from
+   [VC_VCData1].[dbo].[OL_MasterExam]
+   Where [VC_VCData1].[dbo].[OL_MasterExam].[Term]= '2203'
+      remove nulls
+
+Get family Data from Lester & upload it ~/BBParentChild/UploadBB_ParentChild.aspx [uploaddata]
+Input families into MasterProctor [Set Famlies]
+
+Update Sessions in MasterProctor : run
+   Update dbo.MasterProctor 
+   set dbo.masterProctor.session=CMR.Session 
+   From dbo.CMR where dbo.CMR.BBReference = dbo.MasterProctor.Parent
+
+Reset BBCourses  and add the singles to MasterProctor
+      (Note to get session B into MasterProctor, only do last step after selecting session B)
+  [Reset ischild/childof]
+  [Reset Family]
+  [Update Children]
+then select the session and
+  [Add Singles to MasterProctor]    <---- Start Here for Session B
+
+Return to  ~/BBParentChild/UploadBB_ParentChild.aspx   After the STOP section
+   Select a session then
+[Add Course Data]
+[Add Exam Dates]
+[Add Exam Details]
+[Update Lockdown]
+Backup MasterProctor to MasterProctor_BU  when sessions 1 and A are in MasterProctor
+  If adding Session B, repeat the above but use [BACKUP SessionB to MasterProctor_BU]
+       to add session B to the MasterProctor_BU
+
+_____Open up the Faculty Portal to allow Instructors to change Exam options ___________
+When all edits are verfied in Telerik2   ~/ProctorSettings/Reports/SpecialAttention.aspx & SpecialAttentionFInals.aspx
+_______When MasterProctor data has been verified, we can now move to put data into MasterProctorTesting
+_______~/BBParentChild/InputProctorTestingDB.aspx
+_____________________________________________________________________________________________
+
+We need MasterProctorTesting because the MasterProctor data is organized by Families (synched) and not individual sectionsl
+
+This page needs 4 Parameters: Term, Session(select), Exam (Mid or Final), and examdates or student dates
+[Copy Data] inputs data into MasterProctorTesting or MasterProctorTesting_BU (for studs)
+[Get Passwords] generates a sql statement for the batch you are running to input passwords.
+   This must be run manually.
+
+
+
+

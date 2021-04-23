@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75134229-586B-4E1A-B79F-782DE3A6502E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>VCdata</RootNamespace>
+    <AssemblyName>VCdata</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <UpgradeBackupLocation />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>VCdata.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>VCdata.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="Telerik.Web.Design, Version=2019.3.1023.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\Telerik.Web.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Web.Spreadsheet">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Web.Spreadsheet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Web.UI">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\Telerik.Web.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Web.UI.Skins">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\Telerik.Web.UI.Skins.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Core">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Windows.Documents.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Flow">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Windows.Documents.Flow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Spreadsheet">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Windows.Documents.Spreadsheet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Zip">
+      <HintPath>..\lib\RCAJAX\2019.3.1023.40\AdditionalLibraries\Bin40\Telerik.Windows.Zip.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BBcoursesMDCID2username.aspx.designer.vb">
+      <DependentUpon>BBcoursesMDCID2username.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BBcoursesMDCID2username.aspx.vb">
+      <DependentUpon>BBcoursesMDCID2username.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BBParentChild\resetBBcourse.aspx.designer.vb">
+      <DependentUpon>resetBBcourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BBParentChild\resetBBcourse.aspx.vb">
+      <DependentUpon>resetBBcourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BBParentChild\UploadBB_ParentChild.aspx.designer.vb">
+      <DependentUpon>UploadBB_ParentChild.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BBParentChild\UploadBB_ParentChild.aspx.vb">
+      <DependentUpon>UploadBB_ParentChild.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BBParentChild\_UploadParentChild.aspx.designer.vb">
+      <DependentUpon>_UploadParentChild.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BBParentChild\_UploadParentChild.aspx.vb">
+      <DependentUpon>_UploadParentChild.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMR\UploadCMR.aspx.designer.vb">
+      <DependentUpon>UploadCMR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMR\UploadCMR.aspx.vb">
+      <DependentUpon>UploadCMR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Development\CMRtest.aspx.designer.vb">
+      <DependentUpon>CMRtest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\CMRtest.aspx.vb">
+      <DependentUpon>CMRtest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Development\dataform.aspx.designer.vb">
+      <DependentUpon>dataform.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\dataform.aspx.vb">
+      <DependentUpon>dataform.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Development\Dataform2.aspx.designer.vb">
+      <DependentUpon>Dataform2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\Dataform2.aspx.vb">
+      <DependentUpon>Dataform2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Development\NewPhase.aspx.designer.vb">
+      <DependentUpon>NewPhase.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\NewPhase.aspx.vb">
+      <DependentUpon>NewPhase.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Development\TabUpload.aspx.designer.vb">
+      <DependentUpon>TabUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\TabUpload.aspx.vb">
+      <DependentUpon>TabUpload.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Development\WebForm1.aspx.designer.vb">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Development\WebForm1.aspx.vb">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDates\ProctorDataTest.aspx.designer.vb">
+      <DependentUpon>ProctorDataTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDates\ProctorDataTest.aspx.vb">
+      <DependentUpon>ProctorDataTest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDates\UploadExamDates.aspx.designer.vb">
+      <DependentUpon>UploadExamDates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDates\UploadExamDates.aspx.vb">
+      <DependentUpon>UploadExamDates.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\8w2MidExmSet_review.aspx.designer.vb">
+      <DependentUpon>8w2MidExmSet_review.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\8w2MidExmSet_review.aspx.vb">
+      <DependentUpon>8w2MidExmSet_review.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\alert.aspx.designer.vb">
+      <DependentUpon>alert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\alert.aspx.vb">
+      <DependentUpon>alert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\BlackboardsSetupFinals.aspx.designer.vb">
+      <DependentUpon>BlackboardsSetupFinals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\BlackboardsSetupFinals.aspx.vb">
+      <DependentUpon>BlackboardsSetupFinals.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\DetailsReport.aspx.designer.vb">
+      <DependentUpon>DetailsReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\DetailsReport.aspx.vb">
+      <DependentUpon>DetailsReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\FInalProctorSetup.aspx.designer.vb">
+      <DependentUpon>FInalProctorSetup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\FInalProctorSetup.aspx.vb">
+      <DependentUpon>FInalProctorSetup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\MidProctorSetup.aspx.designer.vb">
+      <DependentUpon>MidProctorSetup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\MidProctorSetup.aspx.vb">
+      <DependentUpon>MidProctorSetup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamDetails\UploadDetails.aspx.designer.vb">
+      <DependentUpon>UploadDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamDetails\UploadDetails.aspx.vb">
+      <DependentUpon>UploadDetails.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetup.aspx.designer.vb">
+      <DependentUpon>BlackboardSetup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetup.aspx.vb">
+      <DependentUpon>BlackboardSetup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetupFinals.aspx.designer.vb">
+      <DependentUpon>BlackboardSetupFinals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetupFinals.aspx.vb">
+      <DependentUpon>BlackboardSetupFinals.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetupMidTerm.aspx.designer.vb">
+      <DependentUpon>BlackboardSetupMidTerm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamSetupTeam\BlackboardSetupMidTerm.aspx.vb">
+      <DependentUpon>BlackboardSetupMidTerm.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamSetupTeam\ExamSetup.aspx.designer.vb">
+      <DependentUpon>ExamSetup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamSetupTeam\ExamSetup.aspx.vb">
+      <DependentUpon>ExamSetup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamVerifications\FinalExamVerifications.aspx.designer.vb">
+      <DependentUpon>FinalExamVerifications.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamVerifications\FinalExamVerifications.aspx.vb">
+      <DependentUpon>FinalExamVerifications.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamVerifications\FInalSettingVerification.aspx.designer.vb">
+      <DependentUpon>FInalSettingVerification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamVerifications\FInalSettingVerification.aspx.vb">
+      <DependentUpon>FInalSettingVerification.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamVerifications\MidTermSettingVerification.aspx.designer.vb">
+      <DependentUpon>MidTermSettingVerification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamVerifications\MidTermSettingVerification.aspx.vb">
+      <DependentUpon>MidTermSettingVerification.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamVerifications\PopUpData.aspx.designer.vb">
+      <DependentUpon>PopUpData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamVerifications\PopUpData.aspx.vb">
+      <DependentUpon>PopUpData.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="FLVC\FLVCcourses.aspx.designer.vb">
+      <DependentUpon>FLVCcourses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FLVC\FLVCcourses.aspx.vb">
+      <DependentUpon>FLVCcourses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FLVC\FLVCsections.aspx.designer.vb">
+      <DependentUpon>FLVCsections.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FLVC\FLVCsections.aspx.vb">
+      <DependentUpon>FLVCsections.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterExamDates\AddMasterExamDates.aspx.designer.vb">
+      <DependentUpon>AddMasterExamDates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterExamDates\AddMasterExamDates.aspx.vb">
+      <DependentUpon>AddMasterExamDates.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MasterExamDates\AddMasterExamPasswords.aspx.designer.vb">
+      <DependentUpon>AddMasterExamPasswords.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterExamDates\AddMasterExamPasswords.aspx.vb">
+      <DependentUpon>AddMasterExamPasswords.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OL_Catalog\EditCatalog.aspx.designer.vb">
+      <DependentUpon>EditCatalog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OL_Catalog\EditCatalog.aspx.vb">
+      <DependentUpon>EditCatalog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PortalINI\FacultyPortal_INI.aspx.designer.vb">
+      <DependentUpon>FacultyPortal_INI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PortalINI\FacultyPortal_INI.aspx.vb">
+      <DependentUpon>FacultyPortal_INI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProctoredExamSetup\GetSetupDataMidA.aspx.designer.vb">
+      <DependentUpon>GetSetupDataMidA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProctoredExamSetup\GetSetupDataMidA.aspx.vb">
+      <DependentUpon>GetSetupDataMidA.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ProctoredExams\Day.aspx.designer.vb">
+      <DependentUpon>Day.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProctoredExams\Day.aspx.vb">
+      <DependentUpon>Day.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProctoredExams\GetSetupM1.aspx.designer.vb">
+      <DependentUpon>GetSetupM1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProctoredExams\GetSetupM1.aspx.vb">
+      <DependentUpon>GetSetupM1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ProctorReporting\ExamReports.aspx.designer.vb">
+      <DependentUpon>ExamReports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProctorReporting\ExamReports.aspx.vb">
+      <DependentUpon>ExamReports.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ProctorU\GetProctorU.aspx.designer.vb">
+      <DependentUpon>GetProctorU.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProctorU\GetProctorU.aspx.vb">
+      <DependentUpon>GetProctorU.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="StudentExamDates\myproctor.aspx.designer.vb">
+      <DependentUpon>myproctor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentExamDates\myproctor.aspx.vb">
+      <DependentUpon>myproctor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMid1.aspx.designer.vb">
+      <DependentUpon>_GetProctorUMid1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMid1.aspx.vb">
+      <DependentUpon>_GetProctorUMid1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMidA.aspx.designer.vb">
+      <DependentUpon>_GetProctorUMidA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMidA.aspx.vb">
+      <DependentUpon>_GetProctorUMidA.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMidB.aspx.designer.vb">
+      <DependentUpon>_GetProctorUMidB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorUMidB.aspx.vb">
+      <DependentUpon>_GetProctorUMidB.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorU_FinalA.aspx.designer.vb">
+      <DependentUpon>_GetProctorU_FinalA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestingCenter\_GetProctorU_FinalA.aspx.vb">
+      <DependentUpon>_GetProctorU_FinalA.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TestingCenter\GetTestingCenterMid1.aspx.designer.vb">
+      <DependentUpon>GetTestingCenterMid1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestingCenter\GetTestingCenterMid1.aspx.vb">
+      <DependentUpon>GetTestingCenterMid1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="BBParentChild\InputProctorTestingDB.aspx.designer.vb">
+      <DependentUpon>InputProctorTestingDB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BBParentChild\InputProctorTestingDB.aspx.vb">
+      <DependentUpon>InputProctorTestingDB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\RadCaptcha\0.wav" />
+    <Content Include="App_Data\RadCaptcha\1.wav" />
+    <Content Include="App_Data\RadCaptcha\2.wav" />
+    <Content Include="App_Data\RadCaptcha\3.wav" />
+    <Content Include="App_Data\RadCaptcha\4.wav" />
+    <Content Include="App_Data\RadCaptcha\5.wav" />
+    <Content Include="App_Data\RadCaptcha\6.wav" />
+    <Content Include="App_Data\RadCaptcha\7.wav" />
+    <Content Include="App_Data\RadCaptcha\8.wav" />
+    <Content Include="App_Data\RadCaptcha\9.wav" />
+    <Content Include="App_Data\RadCaptcha\A.wav" />
+    <Content Include="App_Data\RadCaptcha\B.wav" />
+    <Content Include="App_Data\RadCaptcha\C.wav" />
+    <Content Include="App_Data\RadCaptcha\D.wav" />
+    <Content Include="App_Data\RadCaptcha\E.wav" />
+    <Content Include="App_Data\RadCaptcha\F.wav" />
+    <Content Include="App_Data\RadCaptcha\G.wav" />
+    <Content Include="App_Data\RadCaptcha\H.wav" />
+    <Content Include="App_Data\RadCaptcha\I.wav" />
+    <Content Include="App_Data\RadCaptcha\J.wav" />
+    <Content Include="App_Data\RadCaptcha\K.wav" />
+    <Content Include="App_Data\RadCaptcha\L.wav" />
+    <Content Include="App_Data\RadCaptcha\M.wav" />
+    <Content Include="App_Data\RadCaptcha\N.wav" />
+    <Content Include="App_Data\RadCaptcha\O.wav" />
+    <Content Include="App_Data\RadCaptcha\P.wav" />
+    <Content Include="App_Data\RadCaptcha\Q.wav" />
+    <Content Include="App_Data\RadCaptcha\R.wav" />
+    <Content Include="App_Data\RadCaptcha\S.wav" />
+    <Content Include="App_Data\RadCaptcha\T.wav" />
+    <Content Include="App_Data\RadCaptcha\U.wav" />
+    <Content Include="App_Data\RadCaptcha\V.wav" />
+    <Content Include="App_Data\RadCaptcha\W.wav" />
+    <Content Include="App_Data\RadCaptcha\X.wav" />
+    <Content Include="App_Data\RadCaptcha\Y.wav" />
+    <Content Include="App_Data\RadCaptcha\Z.wav" />
+    <Content Include="App_Data\RadSpell\de-DE.tdf" />
+    <Content Include="App_Data\RadSpell\en-US.tdf" />
+    <Content Include="App_Data\RadSpell\fr-FR.tdf" />
+    <Content Include="BBcoursesMDCID2username.aspx" />
+    <Content Include="BBParentChild\aboutProctorTesting.txt" />
+    <Content Include="BBParentChild\Data\ParentChild.txt" />
+    <Content Include="BBParentChild\HowTo.txt" />
+    <Content Include="BBParentChild\resetBBcourse.aspx" />
+    <Content Include="BBParentChild\Summary for UploadBB_ParentChild.aspx" />
+    <Content Include="BBParentChild\Summary_UploadPrentChild.aspx" />
+    <Content Include="BBParentChild\UploadBB_ParentChild.aspx" />
+    <Content Include="BBParentChild\_UploadParentChild.aspx" />
+    <Content Include="bin\VCdata.dll" />
+    <Content Include="bin\VCdata.pdb" />
+    <Content Include="CMR\ClassFunctions.txt" />
+    <Content Include="CMR\DataPrepREADME.txt" />
+    <Content Include="CMR\SampleCMR.txt" />
+    <Content Include="Development\CMRtest.aspx" />
+    <Content Include="Development\dataform.aspx" />
+    <Content Include="Development\Dataform2.aspx" />
+    <Content Include="Development\NewPhase.aspx" />
+    <Content Include="Development\TabUpload.aspx" />
+    <Content Include="Development\WebForm1.aspx" />
+    <Content Include="ExamDates\ProctorDataTest.aspx" />
+    <Content Include="ExamDetails\8w2MidExmSet_review.aspx" />
+    <Content Include="ExamDetails\BlackboardsSetupFinals.aspx" />
+    <Content Include="ExamDetails\FInalProctorSetup.aspx" />
+    <Content Include="ExamDetails\MidProctorSetup.aspx" />
+    <Content Include="ExamSetupTeam\BlackboardSetup.aspx" />
+    <Content Include="ExamSetupTeam\BlackboardSetupFinals.aspx" />
+    <Content Include="ExamSetupTeam\BlackboardSetupMidTerm.aspx" />
+    <Content Include="ExamSetupTeam\ExamSetup.aspx" />
+    <Content Include="ExamVerifications\FinalExamVerifications.aspx" />
+    <Content Include="ExamVerifications\FInalSettingVerification.aspx" />
+    <Content Include="ExamVerifications\MidTermSettingVerification.aspx" />
+    <Content Include="ExamVerifications\PopUpData.aspx" />
+    <Content Include="Excel\Template.xlsm" />
+    <Content Include="FLVC\FLVCdata\Courses.csv" />
+    <Content Include="FLVC\FLVCdata\Sections.csv" />
+    <Content Include="Data\2203MasterExamDates.csv" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="CMR\UploadCMR.aspx" />
+    <Content Include="ExamDates\UploadExamDates.aspx" />
+    <Content Include="ExamDetails\alert.aspx" />
+    <Content Include="ExamDetails\Creating Exam Settings Data.txt" />
+    <Content Include="ExamDetails\DetailSample.txt" />
+    <Content Include="ExamDetails\DetailsReport.aspx" />
+    <Content Include="ExamDetails\Sample.txt" />
+    <Content Include="ExamDetails\UploadDetails.aspx" />
+    <Content Include="Excel\Macro.txt" />
+    <Content Include="FLVC\FLVCcourses.aspx" />
+    <Content Include="FLVC\FLVCsections.aspx" />
+    <Content Include="MasterExamDates\AddMasterExamDates.aspx" />
+    <Content Include="MasterExamDates\AddMasterExamPasswords.aspx" />
+    <Content Include="OL_Catalog\EditCatalog.aspx" />
+    <Content Include="PortalINI\FacultyPortal_INI.aspx" />
+    <Content Include="ProctoredExamSetup\GetSetupDataMidA.aspx" />
+    <Content Include="ProctoredExams\Day.aspx" />
+    <Content Include="ProctoredExams\GetSetupM1.aspx" />
+    <Content Include="ProctorReporting\ExamReports.aspx" />
+    <Content Include="ProctorU\GetProctorU.aspx" />
+    <Content Include="StudentExamDates\Data\StudentDates.txt" />
+    <Content Include="StudentExamDates\Data\StudentDatesSample.txt" />
+    <Content Include="StudentExamDates\myproctor.aspx" />
+    <Content Include="TestingCenter\_GetProctorUMid1.aspx" />
+    <Content Include="TestingCenter\_GetProctorUMidA.aspx" />
+    <Content Include="TestingCenter\_GetProctorUMidB.aspx" />
+    <Content Include="TestingCenter\_GetProctorU_FinalA.aspx" />
+    <Content Include="TestingCenter\GetTestingCenterMid1.aspx" />
+    <Content Include="BBParentChild\InputProctorTestingDB.aspx" />
+    <Content Include="web.config" />
+    <Content Include="RadUploadTestFile" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppData\" />
+    <Folder Include="CMR\Data\" />
+    <Folder Include="Development\Data\" />
+    <Folder Include="ExamDates\Data\" />
+    <Folder Include="ExamDetails\Data\" />
+    <Folder Include="ProctoredExams\Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Import Project="$(VSToolsPath)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(VSToolsPath)\TypeScript\Microsoft.TypeScript.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49646</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49646/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

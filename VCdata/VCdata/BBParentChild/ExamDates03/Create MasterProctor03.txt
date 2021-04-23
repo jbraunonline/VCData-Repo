@@ -1,0 +1,33 @@
+﻿Get the distinct parents from bb+ParentChild03
+
+SELECT Distinct Parent, course
+  FROM [VC_VCData].[dbo].[BB_ParentChild03]
+
+Then with that, create parent, familystring, course and put that into MasterProctor03
+
+Dim mycourse  dr(course)
+Myparent  dr(Parent)
+dim mychidren as string
+
+select childref from bb_parentChild where parent = myparent
+loop thorugh the records and create childref1 + childref2 etc.
+
+Myfamily = myparent + mychildren
+
+Now update masterproctor
+insert   myfamily, myparent, mycourse
+
+now move all the courses in bb (by term) where ischild = 0 and ref. not in (select distinct parent from BB_ParentChild03)
+
+Use VC_VCData 
+SELECT reference, course
+  FROM [VC_VCData].[dbo].[BBcourses]
+  where ischild = 0 and term_key='2203' and category <> 'Master' 
+  and reference not in (Select distinct Parent from BB_ParentChild03)
+
+  input that data into MasterProctor03    as  FamilyString, Parent
+
+
+  Now that we have all courses in MasterProctor03
+       add the course data
+	   add the exam data

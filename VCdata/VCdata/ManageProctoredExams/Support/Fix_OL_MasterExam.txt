@@ -1,0 +1,8 @@
+﻿Run these against OL_MasterProctor after creating the table<br>
+
+ update [VC_VCData].[dbo].OL_MasterExam_BU   set [PM_LIST_ANXMTRLS] = ''  where  [PM_LIST_ANXMTRLS] is null;
+  update [VC_VCData].[dbo].OL_MasterExam_BU   set [PF_LIST_ANXMTRLS] = ''  where  [PF_LIST_ANXMTRLS] is null;
+  update [VC_VCData].[dbo].OL_MasterExam_BU   set [PM_MG_OTHER]= ''  where  [PM_MG_OTHER]is null;
+  update [VC_VCData].[dbo].OL_MasterExam_BU   set [PF_MG_OTHER]= ''  where  [PF_MG_OTHER] is null;
+  update [VC_VCData].[dbo].OL_MasterExam_BU   set [PF_DURATION] = 0  where  [PF_DURATION] is null;
+  update [VC_VCData].[dbo].OL_MasterExam_BU   set [PM_DURATION] = 0  where  [PM_DURATION] is null;

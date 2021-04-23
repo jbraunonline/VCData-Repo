@@ -1,0 +1,512 @@
+1061,ACG2001,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,1,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+1062,ACG2001L,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1005,ACG2011,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+1063,ACG2011L,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1018,ACG2021,DARREN TENN YUK,dtennyuk,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,1,1,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+1017,ACG2021,ELISA FERNANDEZ,efernan2,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,1,1,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+1057,ACG2021L,NELSON GOMEZ,ngomez,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1058,ACG2021L,NELSON GOMEZ,ngomez,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+5968,ACG2021L,NELSON GOMEZ,ngomez,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+3671,ACG2031,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1042,ACG2071,AKBER KHOJA,akhoja,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF (PVIF and PVIFA tables),0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1038,ACG2071,DARREN TENN YUK,dtennyuk,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF (PVIF and PVIFA tables),0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1039,ACG2071,MARTHA CAVALARIS,mcavalar,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF (PVIF and PVIFA tables),0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1048,ACG2071L,DARREN TENN YUK,dtennyuk,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+5972,ACG2071L,JAMES CAVALARIS,jcavalar,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+5973,ACG2071L,JAMES CAVALARIS,jcavalar,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1050,ACG2071L,JOSE HORTENSI,jhortens,1,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1002,ACG2450,JOSE HORTENSI,jhortens,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2306,AMH2010,CARMEN LOPEZ,clopez2,1,1,5/29/2019,5/30/2019,90,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,Proctored Midterm (LCL),Proctored Midterm (RMTte),Proctored Final (LCL),Proctored Final (RMT),1,1,BB
+2311,AMH2010,CARMEN LOPEZ,clopez2,1,1,7/10/2019,7/11/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Proctored Midterm (LCL),Proctored Midterm (RMTte),Proctored Final (LCL),Proctored Final (RMT),1,1,BB
+2305,AMH2010,PABLO GOMEZ,pgomez2,0,1,6/26/2019,6/27/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Proctored Midterm (LCL),Proctored Midterm (RMTte),Proctored Final (LCL),Proctored Final (RMT),1,1,BB
+4754,AMH2020,CARMEN LOPEZ,clopez2,1,1,5/29/2019,5/30/2019,120,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2298,AMH2020,JAIRO LEDESMA,jledesma,1,1,7/10/2019,7/11/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2293,AMH2020,PABLO GOMEZ,pgomez2,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+4753,AMH2020,PABLO GOMEZ,pgomez2,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+5751,ANT2000,BENJAMIN AUGUSTYN,baugusty,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,1,0,0,,0,Comments,,,Proctored Final Exam (Local) ,Proctored Assessment (Remote),1,1,BB
+5976,ANT2000,MONICA OLIVA,moliva,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,60,1,0,0,,0,Comments,,,Proctored Final Exam (Local) ,Proctored Assessment (Remote),1,1,BB
+11483,ARC2461,LYLE CULVER,lculver1,0,1,6/26/2019,6/27/2019,60,1,0,0,,1,7/31/2019,8/1/2019,60,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4759,ARH1000,SMITHA MATHEWS,sking1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+4756; 4757; 4758,ARH1000,TAURIE GITTINGS-WHEELER,tgitting,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+1249,BSC1005,CARLOS RUIZ,cruiz1,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1250,BSC1005,CATALINA ARISTIZABAL,caristiz,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+5982,BSC1005,HOWARD RUBIN,hrubin,0,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1245,BSC1005,JORGE OBESO,jobeso,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1247,BSC1005,JUAN MORATA,jmorata,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+5981,BSC1005,KAREN ALVAREZ DELFIN,kalvare2,0,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+4761,BSC1005,KENDRA MERCHANT,kmerchan,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1244,BSC1005,MARLENE MORALES,mmorale1,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1243,BSC1005,VICTORIA ZUSMAN,vzusman,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Examination (local),Proctored Midterm Examination (remote),Proctored Final Examination (local),Proctored Final Examination (remote),1,1,BB
+1336,BSC2010,JANET DOWDING,jdowding,1,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4901,BSC2010,JORGE OBESO,jobeso,1,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+1286,BSC2085,ALFONSO PINO,apino,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote ),1,1,BB
+1287,BSC2085,MARIA CENDON,mcendon,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote ),1,1,BB
+1288,BSC2085,MARISA MADISON,mmadison,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote ),1,1,BB
+5983,BSC2085,REYNALDO ACURIO,racurio,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote ),1,1,BB
+1167,BSC2085L,ANN MARIE MILLAR,amillar,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1168,BSC2085L,ANN MARIE MILLAR,amillar,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1169,BSC2085L,REYNALDO ACURIO,racurio,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1314; 1315,BSC2086,AMARILYS CARMONA,acarmona,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+5985,BSC2086,ANN MARIE MILLAR,amillar,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1313,BSC2086,LUIS LABISTE,llabiste,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1222,BSC2086L,ANN MARIE MILLAR,amillar,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1221,BSC2086L,LUIS LABISTE,llabiste,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1223,BSC2086L,REYNALDO ACURIO,racurio,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+5986,BSC2086L,REYNALDO ACURIO,racurio,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+2434,BUL2241,NANCY FRANCILLON,nfrancil,0,1,7/10/2019,7/11/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Proctored Exam (Local),Midterm Proctored Exam (Remote),,,1,1,BB
+2436,BUL2241,NANCY FRANCILLON,nfrancil,0,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Proctored Exam (Local),Midterm Proctored Exam (Remote),,,1,1,BB
+5774,BUL4461,MERCEDES MEDINA,mmedina3,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+1747,CCJ1010,RONALD MORALES,rmoral3,0,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+5987,CCJ1010,RONALD MORALES,rmoral3,0,1,5/29/2019,5/30/2019,90,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+1734,CCJ1020,RONALD MORALES,rmoral3,0,1,7/10/2019,7/11/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+1728,CCJ1020,ZULFIKAR KALAM,zkalam,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4815,CCJ1191,NERISSA JAMES,njames1,0,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+5988,CCJ1191,SUSANNA BELLO,sbello,0,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+1711,CCJ2650,ANNA LEGGETT,aleggett,0,1,6/24/2019,6/25/2019,100,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+1752,CCJ3032,SELENA RESPASS,srespass,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+4147,CCJ3663,CARYN HORWITZ,chorwitz,1,1,6/24/2019,6/25/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Mid-Term Exam (Proctored)Local- Requires Respondus LockDown Browser,Mid-Term Exam (Proctored) Remote,,,1,1,BB
+3672,CCJ3700,SHAWN SCHWANER,sschwane,1,1,6/24/2019,6/25/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+3666,CCJ4054,ZULFIKAR KALAM,zkalam,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored  Final Exam (Remote),1,1,BB
+1739,CCJ4450,ZULFIKAR KALAM,zkalam,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+1751,CCJ4651,SAMANTHA CARLO,scarlo1,1,1,6/24/2019,6/25/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5776,CCJ4660,SELENA RESPASS,srespass,1,1,6/24/2019,6/25/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam,Proctored Midterm Exam (Remote),,,1,1,BB
+5782,CGS1005C,JULIAN HARRIS,jharris4,0,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (LCL),Midterm Exam (RMT),,,1,1,BB
+1674,CGS1060C,ADNAN ZEJNILOVIC,azejnilo,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1672,CGS1060C,ALICIA IBARRA,aibarra,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1646,CGS1060C,CHRISTOPHER CORBIN,ccorbin,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1669,CGS1060C,DIEGO TIBAQUIRA,dtibaqui,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1671,CGS1060C,ELODIE BILLIONNIERE,ebillion,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1650,CGS1060C,EUGENE KINNAIRD,ekinnair,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1645,CGS1060C,FLOYD PITTMAN,fpittman,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1649,CGS1060C,FLOYD PITTMAN,fpittman,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+5991,CGS1060C,GEORGE GABB,ggabb,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+5995,CGS1060C,JAVIER COTO,jcoto,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1673,CGS1060C,JOHN MALONEY,jmalone1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1648,CGS1060C,JUAN MARTINEZ,jmarti20,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1702,CGS1060C,JUAN MARTINEZ,jmarti20,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1670,CGS1060C,LAWRENCE MEYER,lmeyerjr,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1703,CGS1060C,NELLY DELESSY,ndelessy,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+5997,CGS1060C,NORGE PENA PEREZ,npenaper,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1644,CGS1060C,RAPHAEL DE ARAZOZA,rdearazo,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+5993,CGS1060C,RODOLFO CRUZ,rcruz2,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+1647,CGS1060C,SERGIO COBO,scobo,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Final Proctored Exam (Local),Final Proctored Exam (Remote),1,1,BB
+5778,CGS1540C,GEORGE GABB,ggabb,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1596,CGS2091,RAPHAEL DE ARAZOZA,rdearazo,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+3673,CGS2108,JOHN MALONEY,jmalone1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+1735,CJC1000,SAMANTHA CARLO,scarlo1,1,1,6/24/2019,6/25/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+1715,CJC1162,ANNA LEGGETT,aleggett,0,1,6/24/2019,6/25/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+5787,CJC4163,SAMANTHA CARLO,scarlo1,1,1,6/24/2019,6/25/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+4764,CJE1640,SHARON PLOTKIN,splotkin,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,,,,,1,1,BB
+1759,CJE2600,NORMA DIEPPA,ndieppa,0,1,6/24/2019,6/25/2019,90,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3667,CJE3115,NORMA DIEPPA,ndieppa,0,1,6/26/2019,6/27/2019,60,0,0,0,,1,7/31/2019,8/1/2019,75,0,0,0,,0,Comments,Proctered Midterm Exam (Local),Proctered Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+3676,CJE3574,CARYN HORWITZ,chorwitz,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Exam #1)/Local,Proctored Midterm (Exam #1)/Remote,,,1,1,BB
+5790,CJE4615,NERISSA JAMES,njames1,0,1,7/10/2019,7/11/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),CJE4615 Midterm Exam (Remote),,,1,1,BB
+1753,CJJ2002,NORMA DIEPPA,ndieppa,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,,,Proctored Exam #3 (Local),Proctored Exam #3 (Remote),1,1,BB
+1719,CJL1100,LEAH SHEAF,lsheaf,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Final Exam ( Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+5495,CJL2062,JAMES SPANN,jspann,1,1,7/10/2019,7/11/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+1755,CJL2062,SELENA RESPASS,srespass,1,1,6/24/2019,6/25/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+4767,CLP1006,AIFA ALVAREZ,aalvar20,0,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3164,CLP1006,ELISABET VIZOSO,evizoso,0,1,7/10/2019,7/11/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3142,CLP1006,IGOR BELOKON,ebelokon,1,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3140,CLP1006,KIMBERLY COFFMAN,kcoffman,1,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3125; 4766,CLP1006,MONICA MAURI,mmauri,0,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3163,CLP1006,TIMOTHY BURKE,tburke,0,1,7/10/2019,7/11/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+6002,CLP1006,TIMOTHY BURKE,tburke,0,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3122; 3123,CLP1006,VELLISSE GRIMES,vgrimes,1,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3141,CLP1006,VELLISSE GRIMES,vgrimes,1,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3205,CLP2140,MARIANA MOLINA,mmolina5,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+3206,CLP2140,TIMOTHY BURKE,tburke,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+4821,COP1332,NANNETTE BIBBY,nbibby,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+1592,CTS1134,DIEGO TIBAQUIRA,dtibaqui,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+3178,DEP2000,IGOR BELOKON,ebelokon,1,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+3173,DEP2000,LISA REISS,lreiss,0,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+3170,DEP2000,MONICA MAURI,mmauri,0,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+3171,DEP2000,RICHARD DEHMER,rdehmer,0,1,6/26/2019,6/27/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+4770,DEP2000,RICHARD DEHMER,rdehmer,0,1,7/10/2019,7/11/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+5806,DSC1006,MARY DOUGLAS,mdouglas,0,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+5807,DSC2242,MARY DOUGLAS,mdouglas,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,0,0,0,,0,Comments,,,Proctored (Local) Final Exam,Proctored (Remote) Final Exam,1,1,BB
+5808,DSC2590,MARY DOUGLAS,mdouglas,0,1,6/24/2019,6/25/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (local),Final Exam (remote),1,1,BB
+2175,EAP1600,KATHLEEN BIACHE,kbiache,1,1,6/24/2019,6/25/2019,90,1,0,0,Headphones,0,1/1/2013,1/1/2013,0,0,0,0,Headphones,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),,,1,1,BB
+2184,EAP1600L,KATHLEEN BIACHE,kbiache,1,1,6/24/2019,6/25/2019,90,1,0,0,Headphones,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),,,1,1,BB
+2202,EAP1620,HELEN ROLAND,hroland,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2251,EAP1640,IRASEMA FERNANDEZ,ifernand,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final (L),Proctored Final ( R ),1,1,BB
+2214,EAP1640L,IRASEMA FERNANDEZ,ifernand,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+2065,EAP1660,ADRIANNE THOMPSON,athompso,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final ?,1,1,BB
+1784; 1789,ECO2013,ANA CORRALES,acorrale,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+4771,ECO2013,DANIEL MURGO,dmurgo,0,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1790,ECO2013,FRANCISCO LARIOS,flarios,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1791,ECO2013,FRANCISCO LARIOS,flarios,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+6006,ECO2013,JEOVANNY PONTON,jponton,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+6007,ECO2013,NICHOLAS BERGAN,nbergan,0,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+6009,ECO2013,RODOLFO RIVAS,rrivas,0,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1821,ECO2023,DANIEL MURGO,dmurgo,0,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (Remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1819,ECO2023,JOSE LOPEZ-CALLEJA,jlopezca,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (Remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1817; 1818,ECO2023,ROBERT FORAN,rforan,1,1,6/24/2019,6/25/2019,90,1,0,1,,1,7/29/2019,7/30/2019,90,1,0,1,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (Remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1849; 1850,EDF1005,SUZANNE CRUZ,scruz6,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+1834,EDF2085,MICHELLE SINGH,msingh1,0,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (remote),Proctored Final (Local,Proctored Final (remote),1,1,BB
+1835,EDF2085,SUZANNE CRUZ,scruz6,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (remote),Proctored Final (Local,Proctored Final (remote),1,1,BB
+1844,EME2040,JASMINE DIAZ,jdiaz14,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+3093,ENC0015,SABRINA WALTERS,swalter1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,105,1,0,0,,0,Comments,,,Proctored Final (local),Proctored Final (remote),1,1,BB
+3098,ENC0025,MARISOL VARELA,mvarela,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final (local),Proctored Final (remote),1,1,BB
+1934,ENC1101,CHRISTINE ROBINSON,crobinso,1,1,7/10/2019,7/11/2019,120,1,0,0,,1,7/29/2019,7/30/2019,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1884; 1887; 6010,ENC1101,CHRISTINE ROBINSON,crobinso,1,1,6/26/2019,6/27/2019,120,1,0,0,,1,7/29/2019,7/30/2019,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1906,ENC1101,DAVID HEREDIA,dheredia,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5712,ENC1101,DAVID HEREDIA,dheredia,1,1,7/10/2019,7/11/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1907,ENC1101,ISABEL RODRIGUEZ-DEHMER,irodrig4,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1933,ENC1101,KATHLEEN NOONAN,knoonan,1,1,7/10/2019,7/11/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1904; 1908,ENC1101,MARIA GARCIA,mgarcia7,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6013,ENC1101,OSCAR GONZALEZ,ogonzale,0,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6012,ENC1101,SABRINA WALTERS,swalter1,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1905,ENC1101,SYLVIA OROZCO-VACA,sorozco1,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1931,ENC1101,SYLVIA OROZCO-VACA,sorozco1,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1886,ENC1101,TRICIA FOSTER,tfoster,0,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1932,ENC1101,VICTOR CALDERIN,vcalderi,1,1,7/10/2019,7/11/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1885,ENC1101,YANELY CORDERO,ycorder1,1,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6011,ENC1101,YANELY CORDERO,ycorder1,1,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1971,ENC1102,ALLISON THOMAS JOHNSON,athomasj,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1966,ENC1102,ARIEL GONZALEZ,agonzal2,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1973,ENC1102,CARLOS CANIZARES,ccanizar,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+2026,ENC1102,CARLOS CANIZARES,ccanizar,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1972,ENC1102,CARMEN MISE,cmise,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1997,ENC1102,CARMEN MISE,cmise,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+5713,ENC1102,CYNTHIA WATKINS,cwatkins,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+6014,ENC1102,CYNTHIA WATKINS,cwatkins,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1974; 1998,ENC1102,ELENA PEREZ-MIRABAL,eperezmi,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+2024; 2025,ENC1102,IVONNE LAMAZARES,ilamaza1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1996; 2022,ENC1102,JAVIER DUENAS,jduenas1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+6015,ENC1102,JOSE BLANCO,jblanco,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+2023,ENC1102,KELLY KENNEDY-EVERETT,kkennedy,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+2021,ENC1102,PATRICK ANDERSON,panders2,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+6017,ENC1102,RAQUEL ZALDIVAR,rzaldiva-r,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1999,ENC1102,SHERIE GACHE-BRICCOLA,sgachebr,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1968,ENC1102,STEVE KRONEN,skronen,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1970,ENC1102,TRICIA FOSTER,tfoster,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1967,ENC1102,WENDY GOODWIN,wgoodwi1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+6016,ENC1102,WENDY GOODWIN,wgoodwi1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+1969,ENC1102,YANELY CORDERO,ycorder1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Proctored Final Essay (local),Proctored Final Essay (remote),1,1,BB
+5694,ENC2300,ARIEL GONZALEZ,agonzal2,1,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),,,1,1,BB
+1939,ENC2300,PHILIP LANE,plane,1,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),,,1,1,BB
+1940,ENC2300,PHILIP LANE,plane,1,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),,,1,1,BB
+6018,ESC1000,JORGE MORALES,jmoral7,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6019,ESC1000,JORGE MORALES,jmoral7,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6020,ESC1000,JORGE MORALES,jmoral7,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+4772,ESC1000,JOSE BARROS,jbarros,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+4773,ESC1000,JOSE BARROS,jbarros,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+4774,EVR1001,CATALINA ARISTIZABAL,caristiz,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,100,0,0,0,,0,Comments,,,,,1,1,BB
+1155; 4776,FIN2000,GEORGES DE SCHRYVER,gdeschry,0,1,6/26/2019,6/27/2019,150,1,1,0,Open PDF- Open/Use Excel,1,7/29/2019,7/30/2019,150,1,1,0,Open PDF- Open/Use Excel,0,Comments,Midterm (Module 2 Test)  Ch 9 10 18 (Local),Midterm (Module 2 Test) Ch 9 10 18 (Remote),Final Exam (Module 4 Test) (Local),Final Exam (Module 4 Test) (Remote),1,1,BB
+1149,FIN3400,PATRICK DULCIO,pdulcio,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,1,1,,0,Comments,,,Proctored Final/Module Three (3) Exam : Chapter 11, 12 and 14 (Local) Proctored Final/Module Three (3) Exam : Chapter 11,1,1,BB
+11285,FIN3403,PATRICK DULCIO,pdulcio,1,1,5/29/2019,5/30/2019,90,1,0,0,Financial Calculator- Open PDF- Open/Use Excel,1,6/19/2019,6/20/2019,120,1,0,0,Financial Calculator- Open PDF- Open/Use Excel,0,Comments,Midterm Exam (Ch 1-8) Local,Midterm Exam (Ch 1-8) Remote,Final Exam (Ch 9-14 18 20) Local,Final Exam (Ch 9-14 18 20) Remote,1,1,BB
+5334,FOT2826,RICARDO BARDO-PORTILLA,rbardopo,1,1,6/24/2019,6/25/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+4778,GEB1011,BARBARA ROSENTHAL,brosenth-r,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Exam (Local),Module 2 Exam - Midterm Exam (Remote),,,1,1,BB
+1425,GEB1011,BONNIE NICHOLLS,bnicholl,0,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Exam (Local),Module 2 Exam - Midterm Exam (Remote),,,1,1,BB
+6028,GEB1011,ILEANA PORGES,iporgesw,1,1,7/10/2019,7/11/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Exam (Local),Module 2 Exam - Midterm Exam (Remote),,,1,1,BB
+1414,GEB1011,NICHOLAS BERGAN,nbergan,0,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Exam (Local),Module 2 Exam - Midterm Exam (Remote),,,1,1,BB
+1413,GEB1011,RODOLFO RIVAS,rrivas,0,1,6/26/2019,6/27/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Exam (Local),Module 2 Exam - Midterm Exam (Remote),,,1,1,BB
+1358,GEB2112,RODOLFO RIVAS,rrivas,0,1,6/26/2019,6/27/2019,100,1,1,1,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),,,1,1,BB
+1362,GEB2350,NICHOLAS BERGAN,nbergan,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Module 3 Exam - Final Exam (Local) Module 3 Exam  - Final Exam (Local),Module 3 Exam - Final Exam (Remote) Module 3 Exam  - Final Exam (Remote),1,1,BB
+2329,HFT1000,BETSY GOMEZ,bgomez1,0,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2336,HFT1210,BETSY GOMEZ,bgomez1,0,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local Proctored),Midterm Exam (Remote Proctored),Final Exam (Local Proctored),Final Exam (Remote Proctored),1,1,BB
+2326,HFT2500,BETSY GOMEZ,bgomez1,0,1,6/24/2019,6/25/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2333,HFT2800,BETSY GOMEZ,bgomez1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2279,HIM0434,CHRISTINE DUNDAS,cdundas,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2288,HIM1000,MARY WORSLEY,mworsley,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Fin al Exam (Local),Final Exam (Remote),1,1,BB
+10670,HIM2472,LASHAWN LAWRENCE,llawren1,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2284; 2285,HIM2472,LESLYE DANGLADE,ldanglad,1,1,6/24/2019,6/25/2019,120,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4779,HLP1081,DANIEL ESTAPE,destape,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+4296,HLP1081,JOSEPH ROSADO,jrosado,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+4780,HLP1081,JOSEPH ROSADO,jrosado,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2781,HLP1081,SUSAN SUMMONS,ssummons,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2320,HSC0003,ALWYN LEIBA,aleiba,0,1,7/10/2019,7/11/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2315,HSC0003,DONNA FISHKIN,dfishkin,1,1,5/29/2019,5/30/2019,120,1,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2317,HSC0003,DONNA FISHKIN,dfishkin,1,1,5/29/2019,5/30/2019,120,1,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2321,HSC0003,ERIKA DI PORTO,ediporto,0,1,7/10/2019,7/11/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2319,HSC0003,FABIO NASCIMENTO,fnascime,0,1,7/10/2019,7/11/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2314,HSC0003,PAULETTE ISAAC,pisaac,1,1,6/24/2019,6/25/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2318,HSC0003,PAULETTE ISAAC,pisaac,1,1,5/29/2019,5/30/2019,120,1,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2312,HSC0003,RONALD SIMMONS,rsimmons,1,1,5/29/2019,5/30/2019,120,1,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2313,HSC0003,RONALD SIMMONS,rsimmons,1,1,6/24/2019,6/25/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2316,HSC0003,SHANTONISE BUTLER,sbutler1,0,1,7/10/2019,7/11/2019,120,1,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2322,HSC2400,JOSEPH ROSADO,jrosado,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2360,HUM1020,GISELLE REAL D ARBELLES,grealdar,0,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+4781,HUM1020,GISELLE REAL D ARBELLES,grealdar,0,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+6034,HUM1020,GISELLE REAL D ARBELLES,grealdar,0,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2361,HUM1020,ROBERT HENRY,rhenry1,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2358,HUM1020,ROBERT REMEK,rremek,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2354; 2355,HUM1020,SARAH GARMAN,sgarman,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2357; 2359,HUM1020,SERGIO GONZALEZ,sgonzal5,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2791,HUN1201,MICHELLE LAREA,mlarea,0,1,5/29/2019,5/30/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2793,HUN1201,MICHELLE LAREA,mlarea,0,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2788,HUN1201,OLUBISI FAOYE,ofaoye,1,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2792,HUN1201,OLUBISI FAOYE,ofaoye,1,1,5/29/2019,5/30/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2790; 2787,HUN1201,ROSA POLANCO-PAULA,rpolanco,1,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2789,HUN1201,SHALON BULL,sbull,0,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2813,HUN1201,SHALON BULL,sbull,0,1,7/10/2019,7/11/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2794,HUN1201,VICTORIA JACKSON,vjackson,0,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+2814,HUN1201,VICTORIA JACKSON,vjackson,0,1,7/10/2019,7/11/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+5753,INR2002,MELISSA BUEHLER,mbuehler,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,,,Proctored Final (Local),Proctored Final (Remote),1,1,BB
+4782,ISM4011,ELODIE BILLIONNIERE,ebillion,1,1,5/29/2019,5/30/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam  Chapters 1  3  4 & 5 (Local),Midterm Exam  Chapters 1  3  4 & 5 (Remote),,,1,1,BB
+3270,ISS1120,ARLEN GARCIA,agarcia6,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3258,ISS1120,NATHALIA GILLOT,ngillot,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3281,ISS1120,NATHALIA GILLOT,ngillot,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+4783,ISS1120,NATHALIA GILLOT,ngillot,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3259,ISS1120,PAOLA MORENO,pmoreno,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3260,ISS1120,PAOLA MORENO,pmoreno,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3282,ISS1120,PATRICIA SCHWARTZ,pschwart-r,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,70,1,0,0,,0,Comments,,,Proctored Final Exam (Test 6) Local,Proctored Final Exam (Test 6) Remote,1,1,BB
+3257,ISS1161,AIFA ALVAREZ,aalvar20,0,1,7/10/2019,7/11/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm [R},,,1,1,BB
+5797; 6045,LIT2000,ALLISON THOMAS JOHNSON,athomasj,1,1,6/24/2019,6/25/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm (R),,,1,1,BB
+6044,LIT2000,KATRINA SMITH,ksmith5,1,1,5/29/2019,5/30/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm (R),,,1,1,BB
+6046,LIT2000,KIMBERLY CARTER,kcarter1,1,1,5/29/2019,5/30/2019,60,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm (R),,,1,1,BB
+5731,LIT2120,MARISOL VARELA,mvarela,1,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+2029,LIT2120,VICTOR CALDERIN,vcalderi,1,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+1947,LIT2480,EMILY SENDIN,esendin,1,1,5/29/2019,5/30/2019,120,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),,,1,1,BB
+2678,MAC1105,ABDEL-RIDA SALEH,asaleh,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6043,MAC1105,ABDEL-RIDA SALEH,asaleh,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2677,MAC1105,ADELAIDA QUESADA,aquesada,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2686,MAC1105,BELARMINO GONZALEZ,bgonzal7,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2682,MAC1105,DAVID TSENG,dtseng,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2679,MAC1105,JEFFREY MIRANDA,jmirand2,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6040,MAC1105,LAZARA FERRER,lferrer2,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6041,MAC1105,LUIS RODRIGUEZ,lrodri25,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+6042,MAC1105,LUIS SAUMELL,lsaumel2,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2683,MAC1105,MANINI NGUYEN,tnguyen,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2685,MAC1105,MARIA MONTES DE OCA,mmontesd,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2681,MAC1105,NELSON DE LA ROSA,ndelaro1,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2680,MAC1105,RANDY SMITH,rsmith5,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2684,MAC1105,ROBERTO CABEZAS,rcabezas,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2523,MAC1114,ERIC PHILIAS,ephilias,1,1,6/26/2019,6/27/2019,90,1,1,0,Open PDF,1,7/31/2019,8/1/2019,90,1,1,0,Open PDF,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+2522,MAC1114,JOSE SERPA,jserpa,1,1,6/26/2019,6/27/2019,90,1,1,0,Open PDF,1,7/31/2019,8/1/2019,90,1,1,0,Open PDF,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+6050,MAC1114,JUSTINA CASTELLANOS NODA,jcastel2,1,1,6/26/2019,6/27/2019,90,1,1,0,Open PDF,1,7/31/2019,8/1/2019,90,1,1,0,Open PDF,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+2536,MAC1140,ELIZABETH NICOLI-SUCO,esuco,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2537,MAC1140,JEFFREY MIRANDA,jmirand2,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+6051,MAC1140,YANILDA ESPINAL,yespinal,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2458,MAC1147,ANTONIO ALFONSO,aalfons2,1,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Proctored Midterm Exam (L),Proctored Midterm Exam ( R),Proctored Final Exam (L) 2015-3,Proctored Final Exam (R) 2015-3,1,1,BB
+2457,MAC1147,LOURDES GONZALEZ,lgonzal2,1,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Proctored Midterm Exam (L),Proctored Midterm Exam ( R),Proctored Final Exam (L) 2015-3,Proctored Final Exam (R) 2015-3,1,1,BB
+6052,MAC1147,MANUEL CARAMES,mcarames,1,1,6/26/2019,6/27/2019,90,1,0,1,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (L),Proctored Midterm Exam ( R),,,1,1,BB
+2577,MAC2233,ALICIA SERFATY DE MARKUS,aserfaty,1,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+2579,MAC2233,VICTORIA GOFORTH,vgoforth,1,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+6053,MAC2233,WILLIAN NERIS,wneris,0,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+2578,MAC2233,YANILDA ESPINAL,yespinal,1,1,6/26/2019,6/27/2019,90,1,0,1,,1,7/31/2019,8/1/2019,90,1,0,1,,0,Comments,Midterm Exam (local),Midterm Exam (remote),Final Exam (local),Final Exam (remote),1,1,BB
+1366,MAN2021,BONNIE NICHOLLS,bnicholl,0,1,7/10/2019,7/11/2019,120,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm ( R),,,1,1,BB
+6055,MAN2021,GISELLE MCKNIGHT,gmcknigh,0,1,6/24/2019,6/25/2019,120,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm ( R),,,1,1,BB
+6054,MAN2021,JEANIE LISENBY,jlisenby,0,1,6/24/2019,6/25/2019,120,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm ( R),,,1,1,BB
+1363,MAN2021,MICKEY SOLOMON,msolomo1,0,1,6/24/2019,6/25/2019,120,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm ( R),,,1,1,BB
+5798,MAN2300,ALEX COLLINS,acollin1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+1405,MAN2604,MAYVE MUNOZ,mmunoz3,0,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam - Midterm Chapters 4 - 7  (Local),Module 2 Exam  - Midterm Chapters 4 - 7 (Remote),,,1,1,BB
+4823,MAN3025,RAHNUMA AHSAN,rahsan,1,1,7/10/2019,7/11/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm - Exam 2 (Local),Proctored Midterm - Exam 2 (Remote),Proctored Final - Exam 4 (Local) ,Proctored Final - Exam 4 (Remote) ,1,1,BB
+1438,MAN3065,CHRISTIE CRUZ,ccruz,0,1,5/29/2019,5/30/2019,60,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0, ,0,Comments,Exam 2 - Midterm Exam (Local,Exam 2 - Midterm Exam (Remote, Exam 4 - Final Exam (Local), Exam 4 - Final Exam (Remote),1,1,BB
+6057,MAN3065,CHRISTIE CRUZ,ccruz,0,1,7/10/2019,7/11/2019,60,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0, ,0,Comments,Exam 2 - Midterm Exam (Local,Exam 2 - Midterm Exam (Remote, Exam 4 - Final Exam (Local), Exam 4 - Final Exam (Remote),1,1,BB
+1433,MAN3240,NAYRIE SMITH,nsmith2,1,1,5/29/2019,5/30/2019,75,0,0,0, ,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Exam 1(Midterm) - Chapters 1- 8 (local),Exam 1(Midterm) - Chapters 1- 8 (remote),,,1,1,BB
+1407,MAN3301,ALEX COLLINS,acollin1,0,1,6/26/2019,6/27/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam Chapters 1 - 7 (Local),Midterm Exam Chapters 1 - 7 (Remote),,,1,1,BB
+6061,MAN3301,JEANIE LISENBY,jlisenby,0,1,6/26/2019,6/27/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam Chapters 1 - 7 (Local),Midterm Exam Chapters 1 - 7 (Remote),,,1,1,BB
+6060,MAN3301,VERONICA RAMSUNDAR,vramsund,0,1,7/10/2019,7/11/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam Chapters 1 - 7 (Local),Midterm Exam Chapters 1 - 7 (Remote),,,1,1,BB
+1412,MAN3554,RICHARD SARABIA,rsarabi1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,1,0,0,,0,Comments,,,Proctored Exam (R),Proctored Exam (L),1,1,BB
+3675,MAN4120,SANDRA TORRES,storres4,1,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module Exam #2 - Midterm (Local),Module Exam #2 - Midterm (Remote),,,1,1,BB
+6063,MAN4162,MICHAEL CASTRO,mcastro8,1,1,7/10/2019,7/11/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam (Midterm) - Chapters 5 - 8 (local),Module 2 Exam (Midterm) - Chapters 5 - 8 (remote),,,1,1,BB
+4824,MAN4162,SANDRA TORRES,storres4,1,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Exam (Midterm) - Chapters 5 - 8 (local),Module 2 Exam (Midterm) - Chapters 5 - 8 (remote),,,1,1,BB
+6064,MAN4720,CHARLESSA SMITH,csmith8,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Module 4 Exam - Proctored Final (Local),Module 4 Exam - Proctored Final (Remote),1,1,BB
+3668,MAN4720,MARIE LOUBEAU,mloubeau,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Module 4 Exam - Proctored Final (Local),Module 4 Exam - Proctored Final (Remote),1,1,BB
+3669,MAN4900,GISELLE MCKNIGHT,gmcknigh,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+4785,MAN4941,JEANIE LISENBY,jlisenby,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+1392,MAR1011,BARBARA ROSENTHAL,brosenth-r,1,1,6/26/2019,6/27/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+1388,MAR1011,RUTH BARROW,rbarrow,1,1,5/29/2019,5/30/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+1389,MAR1011,STACEY WADLE,swadle,0,1,5/29/2019,5/30/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+5799,MAR1720,MAYVE MUNOZ,mmunoz3,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+5800,Mar-50,STACEY WADLE,swadle,0,1,6/24/2019,6/25/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+3106,MAT0028,JUAN PRIETO-VALDES,jprietov,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (remote),1,1,BB
+3105,MAT0028,LAURENCE CHERNOFF,lchernof,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (remote),1,1,BB
+2627; 2628,MAT1033,ALINA CORONEL,acoronel,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+6069,MAT1033,ANTONIO ALFONSO,aalfons2,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+2631,MAT1033,KATALIN PAIZS,kpaizs,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+6070,MAT1033,MANUEL CARAMES,mcarames,1,1,7/10/2019,7/11/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (L),Proctored Midterm Exam ( R),,,1,1,BB
+2630; 11166,MAT1033,NANCY LIU,nliu,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+2657,MAT1033,NELSON DE LA ROSA,ndelaro1,1,1,7/10/2019,7/11/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+6068,MAT1033,RANDY SMITH,rsmith5,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+2629,MAT1033,SAISNATH RICKHI,srickhi,1,1,6/26/2019,6/27/2019,90,1,1,0,,1,7/29/2019,7/30/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+2656,MAT1033,VINCENT BATES,vbates,1,1,7/10/2019,7/11/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+2655,MAT1033,YUSNIER VIERA,yviera,1,1,7/10/2019,7/11/2019,90,1,1,0,,1,7/31/2019,8/1/2019,90,1,1,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final (local),Proctored Final (remote),1,1,BB
+1348,MCB2010,AVNER ITTAH,aittah,1,1,6/26/2019,6/27/2019,70,0,0,0,,1,7/31/2019,8/1/2019,70,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1349,MCB2010,JANET DOWDING,jdowding,1,1,6/26/2019,6/27/2019,70,0,0,0,,1,7/31/2019,8/1/2019,70,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1347,MCB2010,MARIA GUERRERO,mguerrer,1,1,6/26/2019,6/27/2019,70,0,0,0,,1,7/31/2019,8/1/2019,70,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+6072,MCB2010,MARISA MADISON,mmadison,1,1,6/26/2019,6/27/2019,70,0,0,0,,1,7/31/2019,8/1/2019,70,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1346,MCB2010,MEERA NAIR,mnair,1,1,6/26/2019,6/27/2019,70,0,0,0,,1,7/31/2019,8/1/2019,70,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+4787,MGF1106,BELARMINO GONZALEZ,bgonzal7,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2551,MGF1106,EDONY PRINCIVIL,eprinci1,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2550,MGF1106,ELIANE KEANE,ekeane,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2552,MGF1106,ERIKA ZJEVIK,ezjevik,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6074,MGF1106,LAZARA FERRER,lferrer2,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2553,MGF1106,LOURDES GONZALEZ,lgonzal2,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2554,MGF1106,MANINI NGUYEN,tnguyen,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2555,MGF1106,MARIA MONTES DE OCA,mmontesd,1,1,6/26/2019,6/27/2019,90,1,1,1,,1,7/31/2019,8/1/2019,90,1,1,1,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6079,MGF1107,EDONY PRINCIVIL,eprinci1,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2598,MGF1107,ELIZABETH NICOLI-SUCO,esuco,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2600,MGF1107,JOSE SERPA,jserpa,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+6078,MGF1107,LUIS RODRIGUEZ,lrodri25,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2599,MGF1107,ROBERTO CABEZAS,rcabezas,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2601,MGF1107,YUSNIER VIERA,yviera,1,1,6/26/2019,6/27/2019,120,1,1,0,,1,7/31/2019,8/1/2019,120,1,1,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+1397,MKA1021,MAYVE MUNOZ,mmunoz3,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Proctored (Local),Final Proctored (Remote),1,1,BB
+1379,MKA1161,RUTH BARROW,rbarrow,1,1,5/29/2019,5/30/2019,75,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+6082,MNA1345,MICKEY SOLOMON,msolomo1,0,1,6/24/2019,6/25/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Assessment (local),Proctored Assessments (remote),,,1,1,BB
+4149,MNA1345,NAYRIE SMITH,nsmith2,1,1,5/29/2019,5/30/2019,80,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Assessment (local),Proctored Assessments (remote),,,1,1,BB
+5801,MNA2120,VIRGINIA SOTO,vsoto1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2664,MTB1103,CHRISTINE BALMORI,cbalmori,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,1,0,Open PDF (tables),0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2394,MUL1010,MARCAISSE DOUYON,mdouyon,1,1,6/26/2019,6/27/2019,120,0,0,0,Headphones,1,7/31/2019,8/1/2019,120,0,0,0,Headphones,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+5716,MUL1010,RICHARD FLEISCHMAN,rfleisch,1,1,7/10/2019,7/11/2019,120,0,0,0,Headphones,1,7/31/2019,8/1/2019,120,0,0,0,Headphones,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2392; 2393,MUL1010,SUSAN EPSTEIN GARCIA,sepstein,1,1,5/29/2019,5/30/2019,120,0,0,0,Headphones,1,6/19/2019,6/20/2019,120,0,0,0,Headphones,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2413,MUL2380,MARIA VERDESOTO,mverdeso,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,Headphones- Speakers,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2411,MUL2380,RICHARD FLEISCHMAN,rfleisch,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,Headphones- Speakers,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+6085,MUL2380,RUTH GALATAS,rgalatas,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,Headphones- Speakers,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2412,MUL2380,SUSAN EPSTEIN GARCIA,sepstein,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,Headphones- Speakers,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2829,NUR3045,DEBORAH ROBINSON,drobinso,1,1,6/26/2019,6/27/2019,90,1,0,0,Open PDF,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),,,1,1,BB
+2853,NUR3165,ROXANA ORTA,rorta1,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,1,0,0,,0,Comments,,,Final Exam (Local),Final Exam (Remote),1,1,BB
+2849,NUR3178,CLARA TORRES,ctorres2,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,1,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+2850,NUR3289,ANDREW FRADOS,afrados,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,1,0,0,,0,Comments,,,Proctored Final Exam (L),Proctored Final Exam ( R ),1,1,BB
+2831; 2832,NUR3846,VIOLETA AGUILAR-FIGULY,vaguilar,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,1,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2847,NUR4636,MARIE ETIENNE,metienne,1,1,6/26/2019,6/27/2019,75,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (local),Proctored Midterm Exam (remote),,,1,1,BB
+2851; 2852,NUR4667,ELISA RODRIGUEZ ,erodrig8,1,1,6/26/2019,6/27/2019,120,1,0,0,Open PDF,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+2815,NUR4827,ANDREW FRADOS,afrados,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,1,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+5473,NUR4827,ANDREW FRADOS,afrados,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,1,0,0,,0,Comments,,,Proctored Final Exam (Local),Proctored Final Exam (Remote),1,1,BB
+2043; 4788,OCE1001,DAVID FINNERAN,dfinnera,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2045,OCE1001,MARK CHIAPPONE,mchiappo,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2044,OCE1001,RENE REVUELTA,rrevuelt,1,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4826,OST2335,STACEY WADLE,swadle,0,1,7/10/2019,7/11/2019,60,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (local),Midterm Exam (remote),,,1,1,BB
+2887,PHI2010,AMY LUND,alund,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2894,PHI2010,CHARLES ALFARONE,calfaron,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2919,PHI2010,CHRISTOPHER STABILE,cstabile,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+6088,PHI2010,CHRISTOPHER STABILE,cstabile,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2890; 2895,PHI2010,LUIS FONSECA,lfonsec1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2918,PHI2010,MICHAEL MANNINO,mmannino,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2897,PHI2010,MICHAEL SUTHERLAND,msutherl,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2893,PHI2010,NENAD POPOVIC,npopovic,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2892,PHI2010,ROBERT ROBINSON,rrobinso,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2888,PHI2010,RYAN LAKE,rlake,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2889,PHI2010,SEAN ERWIN,serwin,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2891,PHI2010,SEAN ERWIN,serwin,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2899,PHI2010,TAMARA SIEGEL,tsiegel,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,90,0,0,0,,0,Comments,,,Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2930,PHI2604,CHARLES ALFARONE,calfaron,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+6090,PHI2604,CHARLES ALFARONE,calfaron,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+12307,PHI2604,CHRISTOPHER STABILE,cstabile,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2923,PHI2604,KRISTIN BORGWALD,kborgwal,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2925,PHI2604,KRISTIN BORGWALD,kborgwal,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2926,PHI2604,KRISTIN BORGWALD,kborgwal,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2929,PHI2604,KRISTIN BORGWALD,kborgwal,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2959,PHI2604,LUIS FONSECA,lfonsec1,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2928,PHI2604,MICHAEL MANNINO,mmannino,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2931,PHI2604,MICHAEL MANNINO,mmannino,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2932,PHI2604,MICHAEL SUTHERLAND,msutherl,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2933,PHI2604,MICHAEL SUTHERLAND,msutherl,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2935,PHI2604,NENAD POPOVIC,npopovic,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+12305,PHI2604,NENAD POPOVIC,npopovic,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2934,PHI2604,ROBERT ROBINSON,rrobinso,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+12306,PHI2604,ROBERT ROBINSON,rrobinso,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2927,PHI2604,RYAN LAKE,rlake,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+6091,PHI2604,RYAN LAKE,rlake,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2924,PHI2604,SABRINA JAMIL,sjamil,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2958,PHI2604,SABRINA JAMIL,sjamil,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2960,PHI2604,SABRINA JAMIL,sjamil,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+4791,PHI2604,SEAN ERWIN,serwin,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+4790,PHI2604,TAMARA SIEGEL,tsiegel,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+6089,PHI2604,TAMARA SIEGEL,tsiegel,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Final Examination (L),Final Examination (R),1,1,BB
+2980,PHY1025,HECTOR PERALTA,hperalta,1,1,6/24/2019,6/25/2019,120,1,0,1,Protractor- Ruler,1,7/31/2019,8/1/2019,120,1,0,1,Protractor- Ruler,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+6092,PHY1025,SOUMIA SOUCHAK,ssouchak,1,1,6/24/2019,6/25/2019,120,1,0,1,Protractor- Ruler,1,7/31/2019,8/1/2019,120,1,0,1,Protractor- Ruler,0,Comments,Proctored Midterm (local),Proctored Midterm (remote),Proctored Final Exam (local),Proctored Final Exam (remote),1,1,BB
+2440,PLA2003,ELLIS KEETER,ekeeter,0,1,5/29/2019,5/30/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (Local)- Requires Respondus LockDown Browser,Proctored Misterm (Remote),,,1,1,BB
+6093,POS2041,MAGALI RUBIO,mrubio,1,1,6/26/2019,6/27/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+12312,POS2041,MARIA GONZALEZ LLANOS,mgonza35,1,1,5/29/2019,5/30/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+12313,POS2041,MARIA GONZALEZ LLANOS,mgonza35,1,1,5/29/2019,5/30/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+3060,POS2041,MARION ROGERS,mrogers4,0,1,6/26/2019,6/27/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+3068,POS2041,MARION ROGERS,mrogers4,0,1,7/10/2019,7/11/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+3067,POS2041,MELISSA BUEHLER,mbuehler,1,1,5/29/2019,5/30/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+3059,POS2041,RICARDO RICHARDS,rrichar2,0,1,6/26/2019,6/27/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+6094,POS2041,RICARDO RICHARDS,rrichar2,0,1,5/29/2019,5/30/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+6095,POS2041,RICARDO RICHARDS,rrichar2,0,1,7/10/2019,7/11/2019,70,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Module 2 Test (Proctored) (Local),Module 2 Test (Proctored) (Remote),,,1,1,BB
+3057,POS2112,MAGALI RUBIO,mrubio,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,60,1,0,0,,0,Comments,,,Proctored Final (L),Proctored Final ( R ),1,1,BB
+3013,PSC1121,JAVIERA HERNANDEZ,jherna37,0,1,6/24/2019,6/25/2019,60,1,0,0,,1,7/29/2019,7/30/2019,60,1,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3024,PSC1515,MICHAEL MCGAULEY,mmcgaule,1,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3029,PSC1515,ORLANDO PANDO MOREJON,opandomo,0,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3028,PSC1515,SOUMIA SOUCHAK,ssouchak,1,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3025,PSC1515,TCHAO PODONA,tpodona,1,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6096,PSC1515,VICTORIA CASTELLS,vcastel1,1,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3027; 6097,PSC1515,YANET CUSIDO,ycusido,1,1,6/24/2019,6/25/2019,60,0,0,0,,1,7/29/2019,7/30/2019,60,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3232,PSY2012,KIMBERLY COFFMAN,kcoffman,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+3233,PSY2012,KIMBERLY COFFMAN,kcoffman,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+3213; 3216,PSY2012,LISA REISS,lreiss,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+3214,PSY2012,MARIA GARCIA,mgarci27,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+3234,PSY2012,MARIA GARCIA,mgarci27,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+6100,PSY2012,MARLENE GROOMES,mgroomes,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+3212,PSY2012,RICHARD DEHMER,rdehmer,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+6103,PSY2012,SHERYL HARTMAN,shartman,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+6099,PSY2012,TRINIDAD ARGUELLES,targuell,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R),1,1,BB
+2729,PUR2003,EUGENE PONS,epons,1,1,6/26/2019,6/27/2019,90,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm (Local),Midterm (Remote),,,1,1,BB
+6104,QMB2100,BORIVOJE DJOKIC,bdjokic,0,1,6/26/2019,6/27/2019,75,1,1,0,Open PDF(tables). Open/Use Excel,1,7/29/2019,7/30/2019,120,1,1,0,Open PDF- Open/Use Excel,0,Comments,Proctored Midterm - Module 2 Exam  Ch 6  7  8 (Local),Proctored Midterm - Module 2 Exam  Ch 6  7  8 (Remote),Proctored Final Exam Ch 12 13 15 (Local),Proctored Final Exam Ch 12 13 15 (Remote),1,1,BB
+1399,QMB2100,JOSE LOPEZ-CALLEJA,jlopezca,1,1,6/26/2019,6/27/2019,75,1,1,0,Open PDF(tables). Open/Use Excel,1,7/29/2019,7/30/2019,120,1,1,0,Open PDF- Open/Use Excel,0,Comments,Proctored Midterm - Module 2 Exam  Ch 6  7  8 (Local),Proctored Midterm - Module 2 Exam  Ch 6  7  8 (Remote),Proctored Final Exam Ch 12 13 15 (Local),Proctored Final Exam Ch 12 13 15 (Remote),1,1,BB
+1447,QMB2100L,BORIVOJE DJOKIC,bdjokic,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+12308,QMB2100L,BORIVOJE DJOKIC,bdjokic,0,0,1/1/2013,1/1/2013,0,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,,,,,1,1,BB
+3117,REA0007,EMILY SENDIN,esendin,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,1,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+3087,REA0017,MICHELLE RILEY,mriley,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,Final Exam (local),Final Exam (remote),1,1,BB
+5771,REL1210,JACQUELYN LOFTUS,jloftus,1,1,6/24/2019,6/25/2019,100,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm ( R ),,,1,1,BB
+5773,REL2300,JACQUELYN LOFTUS,jloftus,1,1,6/24/2019,6/25/2019,100,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+4827,SBM1000,HOA BURROWS,hburrows,1,1,5/29/2019,5/30/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local) - Module 3 Exam,Proctored Midterm Exam (Local) - Module Exam 2 Proctored Exam (Remote) - Module Exam 2,,,1,1,BB
+6112,SBM1000,MICKEY SOLOMON,msolomo1,0,1,6/24/2019,6/25/2019,90,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local) - Module 3 Exam,Proctored Midterm Exam (Local) - Module Exam 2 Proctored Exam (Remote) - Module Exam 2,,,1,1,BB
+6116,SLS1106,JASON ABREU,jabreu,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+4793,SLS1106,RYNELL CALLOWAY,rcallowa,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+4794,SLS1106,RYNELL CALLOWAY,rcallowa,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+6113,SLS1106,RYNELL CALLOWAY,rcallowa,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+6114,SLS1106,THEOLA BLAKLEY-MOORE,tmoore2,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+6115,SLS1106,THEOLA BLAKLEY-MOORE,tmoore2,0,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,90,0,0,0,,0,Comments,,,,,1,1,BB
+3457,SLS1505,MARTA PACIOS,mpacios,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final ( R ),1,1,BB
+3469,SLS1510,HELEN ROLAND,hroland,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R ),1,1,BB
+4564,SLS1510,MARTA PACIOS,mpacios,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R ),1,1,BB
+4797,SLS1510,MARTA PACIOS,mpacios,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/29/2019,7/30/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R ),1,1,BB
+6123,SLS1510,MARTA PACIOS,mpacios,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R ),1,1,BB
+6122,SLS1510,MICHELLE RILEY,mriley,1,0,1/1/2013,1/1/2013,0,0,0,0,,1,6/19/2019,6/20/2019,120,0,0,0,,0,Comments,,,Proctored Final (L),Proctored Final (R ),1,1,BB
+3356,SPC1017,AARON SHAPIRO,ashapiro,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3364; 3363,SPC1017,AILEEN OCHOA,aochoa,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3349; 3351; 3359,SPC1017,BARBARA MIDENCE,bmidence,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3346; 3347,SPC1017,DAVID WADLE,dwadle,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3420; 3421; 4799,SPC1017,GARY SERLIN,gserlin,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3352; 3360,SPC1017,KRISTEN ROSEN GONZALEZ,krosen,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3366; 3354; 3362,SPC1017,MARVA ADAMS,madams,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3357,SPC1017,MELISSA GROSSMAN,mgrossm1,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5715,SPC1017,MERCEDES MEEKS,mmeeks,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6126,SPC1017,MERCEDES MEEKS,mmeeks,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5714,SPC1017,STEPHEN LUSCHER,slusche1,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6125,SPC1017,STEPHEN LUSCHER,slusche1,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6127,SPC1017,STEPHEN LUSCHER,slusche1,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3348; 3350; 3358,SPC1017,THERESA ALBURY,talbury,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3355,SPC1017,VOLRICK HIGGS,vhiggs,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3353,SPC1017,WILLIAM MURPHY,wmurphy1,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+3361,SPC1017,WILLIAM MURPHY,wmurphy1,1,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5514,SPC1017,WILLIAM PARSONS,wparsons,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+5516,SPC1017,WILLIAM PARSONS,wparsons,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+6124,SPC1017,WILLIAM PARSONS,wparsons,0,1,6/26/2019,6/27/2019,120,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm Exam (Local),Proctored Midterm Exam (Remote),,,1,1,BB
+4800,SPN1120,ANGELO BRIBIESCA,abribies,1,1,6/24/2019,6/25/2019,90,0,0,0,Headphones- Speakers,1,7/29/2019,7/30/2019,90,0,0,0,Headphones- Speakers,0,Comments,Midterm Exam (LCL),Midterm Exam (RMT),Final Exam (LCL),Final Exam (RMT),1,1,BB
+6129,SPN1120,JENIFFER FERNANDEZ HERNANDEZ,jferna29,0,1,6/24/2019,6/25/2019,90,0,0,0,Headphones- Speakers,1,7/29/2019,7/30/2019,90,0,0,0,Headphones- Speakers,0,Comments,Midterm Exam (LCL),Midterm Exam (RMT),Final Exam (LCL),Final Exam (RMT),1,1,BB
+3670,SPN1120,MARCO BRIBIESCA,mbribies,0,1,6/24/2019,6/25/2019,90,0,0,0,Headphones- Speakers,1,7/29/2019,7/30/2019,90,0,0,0,Headphones- Speakers,0,Comments,Midterm Exam (LCL),Midterm Exam (RMT),Final Exam (LCL),Final Exam (RMT),1,1,BB
+4801,SPN1121,JENIFFER FERNANDEZ HERNANDEZ,jferna29,0,1,6/26/2019,6/27/2019,90,0,0,0,Speakers,1,7/31/2019,8/1/2019,90,0,0,0,Speakers,0,Comments,MIDTERM EXAM (LCL),MIDTERM EXAM (RMT),FINAL EXAM (LCL),FINAL EXAM (RMT),1,1,BB
+6133,STA2023,ANUBIS DE LAMA LI,adelamal,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2478,STA2023,CELESTE DIAZ-CONSUL,cdiazcon,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+4802,STA2023,CELESTE DIAZ-CONSUL,cdiazcon,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2475,STA2023,CLEVELAND TAYLOR,ctaylor1,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2479,STA2023,ERIC HERNANDEZ,eherna13,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6132,STA2023,ERIC HERNANDEZ,eherna13,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2481,STA2023,ERIC PHILIAS,ephilias,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6135,STA2023,ERIKA ZJEVIK,ezjevik,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2476,STA2023,LEANDRO ALVAREZ,lalvare2,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2473,STA2023,MARIA ALVAREZ,malvare1,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2474,STA2023,MARIA ALVAREZ,malvare1,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2477,STA2023,MARTA BRITO-VILLANI,mbritovi,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2482,STA2023,MARTA BRITO-VILLANI,mbritovi,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+2480,STA2023,SAISNATH RICKHI,srickhi,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+6134,STA2023,VICTORIA GOFORTH,vgoforth,1,1,6/26/2019,6/27/2019,120,1,1,1,Open PDF,1,7/31/2019,8/1/2019,120,1,1,1,Open PDF,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),Final Exam (Local),Final Exam (Remote),1,1,BB
+3291,SYG2000,CARA GLUSKOTER,cgluskot,1,1,7/10/2019,7/11/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+6136,SYG2000,CARA GLUSKOTER,cgluskot,1,1,7/10/2019,7/11/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+3292,SYG2000,RONALD STUBBS,rstubbs,1,1,6/24/2019,6/25/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+3293,SYG2000,RONALD STUBBS,rstubbs,1,1,6/24/2019,6/25/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+4803,SYG2000,RONALD STUBBS,rstubbs,1,1,6/24/2019,6/25/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+3294,SYG2000,STUART WILLIAMS,swillia3,1,1,5/29/2019,5/30/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+6138,SYG2000,STUART WILLIAMS,swillia3,1,1,5/29/2019,5/30/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB
+1065,TAX2000,CHRISTINE BALMORI,cbalmori,1,1,6/24/2019,6/25/2019,120,1,1,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Local),Midterm Exam (Remote),,,1,1,BB
+5335,TAX2010,HOA BURROWS,hburrows,1,1,5/29/2019,5/30/2019,100,0,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Midterm Exam (Remote),Midterm Exam (Local),,,1,1,BB
+2302,WOH2012,ALEXIS SOTO,asoto2,0,1,6/26/2019,6/27/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+2303,WOH2012,ALEXIS SOTO,asoto2,0,1,7/10/2019,7/11/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+11111,ZZZ2012,Mia SOTO,jbraun1,0,1,7/10/2019,7/11/2019,120,0,0,0,,1,7/31/2019,8/1/2019,120,0,0,0,,0,Comments,Proctored Midterm (Local),Proctored Midterm (Remote),Proctored Final (Local),Proctored Final (Remote),1,1,BB
+22222,TTT2000,BIG STUBBS,jbraun1,1,1,6/24/2019,6/25/2019,70,1,0,0,,0,1/1/2013,1/1/2013,0,0,0,0,,0,Comments,Proctored Midterm (L),Proctored Midterm(R),,,1,1,BB

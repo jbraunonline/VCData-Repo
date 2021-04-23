@@ -1,0 +1,25 @@
+﻿Update dbo.MasterProctor set 
+dbo.MasterProctor.Course = dbo.OL_MasterExam.Course, 
+dbo.MasterProctor.MidTime = dbo.OL_MasterExam.PM_DURATION, 
+dbo.MasterProctor.MidPaper = dbo.OL_MasterExam.PM_LIST_MTRLS_OPT1, 
+dbo.MasterProctor.MidCalculator = dbo.OL_MasterExam.PM_LIST_MTRLS_OPT2, 
+dbo.MasterProctor.MidGraph = dbo.OL_MasterExam.PM_LIST_MTRLS_OPT3, 
+dbo.MasterProctor.MidNotes = '',
+ dbo.MasterProctor.PM_ANXMTR = dbo.OL_MasterExam.PM_LIST_ANXMTRLS, 
+dbo.MasterProctor.Essay = dbo.OL_MasterExam.PM_MG_ES, 
+dbo.MasterProctor.FinalEssay = dbo.OL_MasterExam.PF_MG_ES, 
+dbo.MasterProctor.MidNameL = dbo.OL_MasterExam.PM_LCL_NAME, 
+dbo.MasterProctor.MidNameR = dbo.OL_MasterExam.PM_RMT_NAME, 
+dbo.MasterProctor.FinalTime = dbo.OL_MasterExam.PF_DURATION, 
+dbo.MasterProctor.FinalPaper = dbo.OL_MasterExam.PF_LIST_MTRLS_OPT1,
+ dbo.MasterProctor.FinalCalculator = dbo.OL_MasterExam.PF_LIST_MTRLS_OPT2, 
+dbo.MasterProctor.FinalGraph = dbo.OL_MasterExam.PF_LIST_MTRLS_OPT3, 
+dbo.MasterProctor.FinalNotes = '', 
+dbo.MasterProctor.PF_ANXMTR = dbo.OL_MasterExam.PF_LIST_ANXMTRLS,
+ dbo.MasterProctor.FinalNameL = dbo.OL_MasterExam.PF_LCL_NAME, 
+dbo.MasterProctor.FinalNameR = dbo.OL_MasterExam.PF_RMT_NAME 
+From dbo.OL_MasterExam 
+where dbo.OL_MasterExam.Course = dbo.MasterProctor.course and (dbo.MasterProctor.Session = '1' or dbo.MasterProctor.Session = '8W1')
+
+
+//This worked for 2203 sessions 1 and 8w1

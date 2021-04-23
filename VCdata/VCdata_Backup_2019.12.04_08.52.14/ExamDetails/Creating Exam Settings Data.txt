@@ -1,0 +1,22 @@
+Clear BB_ParentChild as this is s temp working table:   Delete from BB_ParentChild 
+
+Upload Lester's BB parent/child data to BB_ParentChild
+SPC1017-2197-8313,SPC1017-2197-8320
+SPC1017-2197-8313,SPC1017-2197-8325
+SPC1017-2197-8305,SPC1017-2197-8310
+SPC1017-2197-8305,SPC1017-2197-8317
+
+What goes in is ParentCourse, ChildCourse, parent, child, course, family
+SPC1017-2197-8305,SPC1017-2197-8317,2197-8305,2197-8317,SPC1017,(blank  ='')
+
+Reset BBCourses   set all ischild = 0, childof = "", and family = reference
+
+Now loop through BB_ParentChild and set
+Sub updateParentChild(BY Val myparent as string, mychild as string)
+
+    update BBCourses
+    set ischild=1, family=myparentparent where reference = mychild
+
+*************Now we have BBcourses with the correct parent/child based on Lester's P/C data
+Now we can begin to create the MasterProctor1 table, so first clear it (delete from dbo.MasterProctor1)
+

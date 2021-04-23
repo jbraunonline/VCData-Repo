@@ -1,0 +1,133 @@
+﻿Setting up Proctored Exam Testing Data (sessions a & A   for B see below)
+Preliminary: 
+....Make sure that the CMR is complete for the sessions being input for the term. ~/CMR/UploadCMR.aspx
+
+....upload to masterexamdates from Ernest dates spreadsheet  ~/MasterExamDates/AddMasterExamDates.aspx
+....Update the passwords in the table after getting password keys from Amy: ~/BBParentChild/AddMasterExamPasswords.aspx
+....Copy te exan data frfrom the designer DB to the VC_VCollege DB.  Delete the existing table and recreate it from the VC_VCdata:
+
+Select * into [VC_VCData].[dbo].[OL_MasterExam] from
+[VC_VCData1].[dbo].[OL_MasterExam]
+Where [VC_VCData1].[dbo].[OL_MasterExam].[Term]= '2205'       '''''DONE 5/27/2020
+
+1....Start by getting (1&a session) lester's report of synched courses.
+      then  ~/BBParentChild/UploadBB_ParentChild.aspx
+2....input the data to BB_ParentCHild and Set Families  Don't forget to manually update thesessions in MasterProctor(sql on page)
+Update dbo.MasterProctor 
+set dbo.masterProctor.session=CMR.Session 
+we rrun the above becasue there may be multiple sessions in the parent/child data and we need to set the recoreds to te correct session
+3....Stop[[[[[[[[[[[[[[[[
+
+Go to /BBParentChild/resetBBcourse.aspx
+delete BBCourses_BU and make a backup of BBCourses to BBcourses_BU ------- do this in sql mgment studio
+This creates an emergency BU of BBCourses in case there is a failure in the next steps.
+Resetting the bbcourses table is probably not necessary, but in insures that Wendy's dashboard is updated to what actually exists in BB>
+
+	Reset the BB Data in case Wendy failed to correctly input parent/child relationships (follow directions on page)
+	Then input the singletons for the session: either 1&a  or B-only
+
+,4....]]]]]]]]]]] Return to ~/BBParentChild/UploadBB_ParentChild.aspx
+
+     Add Course Data
+     Add Exam Dates
+     Add Exam Details
+ 5.... update the MasterProctor lockdown values (sql on page)
+
+6...Backup MasterProctor to MasterProctor_BU for reference of default values when validating faculty input.
+
+7;..Open up the Faculty Portal so faculty can review/modify exam settings.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\before moving on, correct for some nulls that may have come over from the designers
+ 
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+8...When settings have been reviewed and validated Telerik2/ ~/ProctorSettings/Reports/SpecialAttention.aspx  NOTE that the review pages are in the faculty portal not VCadmin update [VC_VCData].[dbo].[MasterProctor]   set PF_ANXMTR = ''   where  PF_ANXMTR is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set PF_ANXMTR = ''   where  PF_ANXMTR is null;
+  
+  update [VC_VCData].[dbo].[MasterProctor]   set PM_ANXMTR = ''   where  PM_ANXMTR is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set midnotes = ''   where  midnotes is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set finalnotes = ''   where  finalnotes is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set MidNameL = ''   where  MidNameL is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set MidNameR = ''   where  MidNameR is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set FinalNameL = ''   where  FinalNameL is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set FinalNameR = ''   where  FinalNameR is null;
+   After the values in the MasterProctor table have been verified  (mosly date switching and inaccurate dates from Burt's data)
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]setting up for Proctor U....the difference between these two reports is that proctorU must have values for each course and the setup team only needs data for parent courses
+
+9.  At this point you can generate the BBsetup team report to set up the eexams  ~/ExamSetupTeam/BlackboardSetupMidTerm.aspx (or Finals if all MasterProctor data verified)
+
+10...you can move on to the ~/BBParentChild/InputProctorTestingDB.aspx to create the MasterProctorTesting data
+       NOTE: this page generates date for two things. a. student exam windows (proctor/myproctor.aspx) and the data needed for testing centers and ProctorU.
+
+	   This page works incrementally be session and exam. (if doing 1 and A, then this page needs to run FOUR times.
+   Session + Mid + ExamSetup  (+GetPasswords)     Session+Mid+StudentDates  
+   Session + Final + ExamSetup  (+GetPasswords)     Session+Final+StudentDates  
+        The student dates run does NOT need to add passwords as students only see dates.
+A. Select session1 Midterm and select Exam Setup. Preview (note the counts) If the counts are correct, RUN +  Copy Data
+B. The Get Passwords link will give you the correct SQL to manually run and add the pwds to the MasterProctorTesting table.
+C. Repeats step A, only now select Student Dates.  Verify sql goes too MasterProctorTesting_BU table. this is now complete (no pwds needed)
+
+Now you can generate the reports for Testing Centers and ProctorU
+~/ExamSetupTeam/ExamSetup.aspx  (For testing centers)
+~/ProctorU/GetProctorU.aspx
+
+.........................................................................................................................................................................................
+***Session B***Session B***Session B***Session B***Session B***Session B***Session B***Session B***Session B
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Get clearance from Donna that the B term is complete.
+Update the CMR   ~/CMR/UploadCMR.aspx
+
+We go through the same process for B as for sessions 1&A. Faculty can go to the faculty portal to review final Proctored Exam settings for B session.
+To get the data ready for faculty verification, we start by
+1..bACKUP  MasterProctor and BB_ParentChild to respective _BU tables.....to preserve a record of  sessions 1 and A
+Use VC_VCData
+Drop Table dbo.MasterProctor_BU;
+Drop Table dbo.BB_ParentChild_BU;
+Drop Table. dbo.BBCourses_BU;
+SELECT *
+INTO dbo.MasterProctor_BU
+FROM dbo.MasterProctor;
+SELECT *
+INTO dbo.BB_ParentChild_BU
+FROM dbo.BB_ParentChild;
+SELECT *
+INTO dbo.BBCourses_BU
+FROM dbo.BBCourses;
+
+
+2. Delete all records from MasterProctor and BB_ParentChild to give empty tables that will now only contain SessionB data.
+3. ~/BBParentChild/UploadBB_ParentChild.aspx   to put lester's new data for session B in 
+  input the data to BB_ParentCHild and Set Families  Don't forget to manually update thesessions in MasterProctor(sql on page)
+
+  [[[[[[[[[[[[__STOP__]]]]]]]]]]]]
+  Go to /BBParentChild/resetBBcourse.aspx
+delete BBCourses_BU and make a backup of BBCourses to BBcourses_BU ------- do this in sql mgment studio
+This creates an emergency BU of BBCourses in case there is a failure in the next steps.
+Resetting the bbcourses table is probably not necessary, but in insures that Wendy's dashboard is updated to what actually exists in BB......................
+.............Do this ONLY FOR SESSION B   6w2  or 8w2
+	Reset the BB Data in case Wendy failed to correctly input parent/child relationships (follow directions on page)
+	Then input the singletons for the session: either 1&a  or B-only
+
+,4....]]]]]]]]]]] Return to ~/BBParentChild/UploadBB_ParentChild.aspx
+
+     Add Course Data
+     Add Exam Dates
+     Add Exam Details
+ 5.... update the MasterProctor lockdown values (sql on page)
+
+6...Backup MasterProctor to MasterProctor_BU for reference of default values when validating faculty input.
+
+7;..Open up the Faculty Portal so faculty can review/modify exam settings.
+
+
+
+
+
+

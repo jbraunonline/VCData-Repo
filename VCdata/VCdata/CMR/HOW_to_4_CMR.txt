@@ -1,0 +1,73 @@
+﻿upload CMR Process
+This process starts with the latest Donna_CMR  that isis uploaded to a local CMRconbert folder.
+There we run Liber's Template, which conforms that XLSX data and generates a CSV file that is used in the VCData>>CMR>>CMRUpload.aspx file
+That CSV is the entry requirement to run this uploadcmr.aspx form.
+Because the CSV data comes from a data untyped source, I have chosen to allow three modes for running the file.  Preview, Hold, and Input (radio buttons).
+These change the behavior of the Upload Data button.
+Preview + Upload just loops theourh the list to make sure that the data is correctly parsed.
+Hold + Upload will run the data and show you the actual sql scripts that will fire, but the execute function is turned off.  This provides a visual cue that all is well before you select 
+Run + InputData button will run the scriptl If there are errors, you will see them here and the actual sql scripts will hlep point out the source of the errorl
+
+
+Input data looks like this:
+2213,1003,ACG,2021L,Financial Acct Lab,LAB,A,1.00,1,1/06/2021,4/30/2021,14,E,Changed Cap Enrl to 30 from 45,GOMEZ,NELSON,ngomez,Portuondo$ Alexis (interim),aportuon,FULL,1000029371,
+The aspx file takes each CSV line and converts it to Variables:
+            Dim term As String = astrValues(0)  'Term,
+            Dim reference As String = astrValues(1)  'reference
+            Dim subject As String = astrValues(2)  'Subject,'
+            Dim catalog As String = astrValues(3)  'Catalog,
+            Dim descr As String = astrValues(4)  'Descr,
+            Dim component As String = astrValues(5)  'Component,
+            Dim status As String = astrValues(6)  'Status,
+            Dim credits As String = astrValues(7)  'Credits,
+            Dim session As String = astrValues(8)  'Session,
+            Dim startdate As String = astrValues(9)  'StartDate,
+            Dim enddate As String = astrValues(10)  'EndDate,
+            Dim section As String = astrValues(11)  'Section,
+            Dim classtype As String = astrValues(12) 'ClassType,
+            Dim scheduleNotes As String = Replace(astrValues(13), "$", ",")  'SectionNotes,
+            Dim last As String = astrValues(14)  'Last,
+            Dim first As String = astrValues(15)  'First,
+            Dim UserName As String = astrValues(16)  'Username
+
+            Dim email As String = ""
+            If Len(UserName) > 2 Then
+                email = UserName & "@mdc.edu"
+            Else
+                email = ""
+            End If
+
+            Dim Chair As String = astrValues(17)  'Chair
+            Dim chairoutlook As String = astrValues(18)  'Chairoutlook
+            Dim instAssign As String = astrValues(19)  'InstrAssig Cls, - CanChANGE
+            Dim mdcid As String = astrValues(20)  'MDIC,
+            Dim course As String = subject & catalog
+
+If Classtype = "E" we proceed, i.e. dont handle labs and other non E course types. so if the data rwo is not an E type, we just skip this record and go to the next.
+
+Then we look to see if  a record for the course is  in CMR data table, then
+
+                    If DoesCMRexist(term, reference) = False Then   (Xourse is not in CMR) so add the record and if it is successfully added, then add a record to the BBCourses table.
+                        If addCMR(term, reference, subject, catalog, descr, status, credits, component, section, session, startdate, enddate, classtype, mdcid, instAssign, last, first, email, Chair, chairoutlook, scheduleNotes) = True Then
+                            CMRchange(term, reference, session, startdate, enddate, mdcid, email, first, last, status, instAssign, course)  'adds a base record for the CMRchange table
+                            addBBCourses(reference, term, course, section, session, startdate, enddate, first, last, email)
+                        End If
+
+If the record DOES EXIST then we want to see if there were any changes of term, session, MDCID of instructor, status (open or closed), instructor status (Full or PartTime)
+NOTE: the isCMRCHANGE function is backward.  It returns True if the records compared are identical, and FALSE if they are different. Probaly should be renamed IsCMRsame.
+
+If IsCMRchange(term, reference, session, mdcid, status, instAssign, last) = True Then  'did mdcid, status, or session change?  TRUE = Same, FALSE = Change
+                            Response.Write("SAME<br>")
+                        Else
+                            Response.Write("CHANGED <br>")
+                            changecount = changecount + 1
+                            UpdateCMR(term, reference, session, startdate, enddate, mdcid, last, first, email, status, instAssign)
+                            CMRchange(term, reference, session, startdate, enddate, mdcid, email, first, last, status, instAssign, course) 'Adds a CMRchange record
+                            updateBBCourse(term, reference, startdate, enddate, session, first, last, email)
+                        End If
+
+OBVIOUSLY this approach is a resource hog and be far mor efficient if we were to use stored procedures and triggers.
+My long term goal (until Donna's administration work is moved to the database) would be to simplify the uploadCMR.aspx to loop through the CSV vile
+fcreate identifiable data nams, and then use a stored procedue to do the work above.  
+The current form takes about a minute to run (probably 100% local CPU with hundreds of spearate sql requests).
+With stored procedures and triggers (to monitor changes) this would be considerabley faster and more efficient. But for now with ~1000 records, this pig works.

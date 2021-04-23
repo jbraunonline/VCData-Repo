@@ -1,0 +1,492 @@
+5038	WOH2012	PABLO GOMEZ	pgomez2	0	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+10466	TAX2010	HOA BURROWS	hburrows	1	1	3/6/2019	3/8/2019	100	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments	Midterm Exam (Remote)	Midterm Exam (Local)			1	1	BB
+10411	TAX2000	CHRISTINE BALMORI	cbalmori	1	1	2/25/2019	2/27/2019	120	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7972	SYG2230	CHRIS VILA	cvila	0	1	2/27/2019	3/1/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+7962	SYG2000	ALEJANDRO ANGEE	aangee	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+10407	SYG2000	ALEJANDRO ANGEE	aangee	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+7956_7959_7964	SYG2000	CARA GLUSKOTER	cgluskot	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+7958	SYG2000	JAIRO LEDESMA	jledesma	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+7963	SYG2000	JAIRO LEDESMA	jledesma	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+10410	SYG2000	JAIRO LEDESMA	jledesma	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+7957_7960_7965	SYG2000	RONALD STUBBS	rstubbs	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+10409	SYG2000	RONALD STUBBS	rstubbs	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+7961	SYG2000	STUART WILLIAMS	swillia3	1	1	2/27/2019	3/1/2019	70	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm( R )			1	1	BB
+5563	STA2023	CELESTE DIAZ-CONSUL	cdiazcon	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5558	STA2023	CLEVELAND TAYLOR	ctaylor1	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5564	STA2023	ERIC HERNANDEZ	eherna13	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10406	STA2023	ERIC PHILIAS	ephilias	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10403	STA2023	JOSE SERPA	jserpa	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5561_10404	STA2023	LEANDRO ALVAREZ	lalvare2	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5560	STA2023	LINDA LOVE DUBE	llove	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5556_5557_5567	STA2023	MARIA ALVAREZ	malvare1	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5562	STA2023	MARTA BRITO-VILLANI	mbritovi	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5568	STA2023	NELSON DE LA ROSA	ndelaro1	1	1	3/4/2019	3/6/2019	120	1	1	1	Open PDF	1	4/26/2019	4/30/2019	120	1	1	1	Open PDF	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+8713	SPN1121	ANGELO BRIBIESCA	abribies	1	1	2/25/2019	2/27/2019	90	0	0	0	Speakers	1	4/22/2019	4/24/2019	90	0	0	0	Speakers	0	comments	MIDTERM EXAM (LCL)	MIDTERM EXAM (RMT)	FINAL EXAM (LCL)	FINAL EXAM (RMT)	1	1	BB
+8711_8712	SPN1121	MERCEDES MEIER	mmeier	1	1	2/25/2019	2/27/2019	90	0	0	0	Speakers	1	4/22/2019	4/24/2019	90	0	0	0	Speakers	0	comments	MIDTERM EXAM (LCL)	MIDTERM EXAM (RMT)	FINAL EXAM (LCL)	FINAL EXAM (RMT)	1	1	BB
+8685	SPN1120	ANGELO BRIBIESCA	abribies	1	1	2/25/2019	2/27/2019	90	0	0	0	Headphones- Speakers	1	4/24/2019	4/26/2019	90	0	0	0	Headphones- Speakers	0	comments	Midterm Exam (LCL)	Midterm Exam (RMT)	Final Exam (LCL)	Final Exam (RMT)	1	1	BB
+10401	SPN1120	BERTHA SANCHEZ	bsanche1	0	1	2/25/2019	2/27/2019	90	0	0	0	Headphones- Speakers	1	4/24/2019	4/26/2019	90	0	0	0	Headphones- Speakers	0	comments	Midterm Exam (LCL)	Midterm Exam (RMT)	Final Exam (LCL)	Final Exam (RMT)	1	1	BB
+4920_10400	SPN1120	GRISSELLE PRINCIPE	gprincip	1	1	2/25/2019	2/27/2019	90	0	0	0	Headphones- Speakers	1	4/24/2019	4/26/2019	90	0	0	0	Headphones- Speakers	0	comments	Midterm Exam (LCL)	Midterm Exam (RMT)	Final Exam (LCL)	Final Exam (RMT)	1	1	BB
+17010	SPN1120	JENIFFER FERNANDEZ HERNANDEZ	jferna29	0	1	2/25/2019	2/27/2019	90	0	0	0	Headphones- Speakers	1	4/24/2019	4/26/2019	90	0	0	0	Headphones- Speakers	0	comments	Midterm Exam (LCL)	Midterm Exam (RMT)	Final Exam (LCL)	Final Exam (RMT)	1	1	BB
+8684	SPN1120	MARIA CASADO	mcasado	1	1	2/25/2019	2/27/2019	90	0	0	0	Headphones- Speakers	1	4/24/2019	4/26/2019	90	0	0	0	Headphones- Speakers	0	comments	Midterm Exam (LCL)	Midterm Exam (RMT)	Final Exam (LCL)	Final Exam (RMT)	1	1	BB
+8228	SPC1017	AARON SHAPIRO	ashapiro	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8291	SPC1017	AARON SHAPIRO	ashapiro	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8234	SPC1017	AILEEN OCHOA	aochoa	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8220	SPC1017	BARBARA MIDENCE	bmidence	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8225	SPC1017	BARBARA MIDENCE	bmidence	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8232	SPC1017	BARBARA MIDENCE	bmidence	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8216_8217_8218	SPC1017	DAVID WADLE	dwadle	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8235	SPC1017	GARY SERLIN	gserlin	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8237	SPC1017	GARY SERLIN	gserlin	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8239	SPC1017	GARY SERLIN	gserlin	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8226_8233_8238	SPC1017	KRISTEN ROSEN GONZALEZ	krosen	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8222_8229_8236	SPC1017	MELISSA GROSSMAN	mgrossm1	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8290	SPC1017	MERCEDES MEEKS	mmeeks	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8809	SPC1017	MERCEDES MEEKS	mmeeks	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10397	SPC1017	MERCEDES MEEKS	mmeeks	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8292	SPC1017	STEPHEN LUSCHER	slusche1	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8808	SPC1017	STEPHEN LUSCHER	slusche1	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10398	SPC1017	STEPHEN LUSCHER	slusche1	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8219_8224_8231	SPC1017	THERESA ALBURY	talbury	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8221_8227	SPC1017	VOLRICK HIGGS	vhiggs	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10395	SPC1017	WILLIAM PARSONS	wparsons	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10396	SPC1017	WILLIAM PARSONS	wparsons	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10399	SPC1017	WILLIAM PARSONS	wparsons	0	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8223	SPC1017	YVETTE LUJAN	ylujan	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8230	SPC1017	YVETTE LUJAN	ylujan	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8370	SLS1510	HELEN ROLAND	hroland	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R )	1	1	BB
+8371	SLS1510	MARTA PACIOS	mpacios	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R )	1	1	BB
+10392	SLS1510	MICHELLE RILEY	mriley	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R )	1	1	BB
+8331	SLS1505	HELEN ROLAND	hroland	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final ( R )	1	1	BB
+10391	SLS1505	HELEN ROLAND	hroland	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final ( R )	1	1	BB
+8332	SLS1505	MARTA PACIOS	mpacios	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final ( R )	1	1	BB
+16703	SLS1106	AIFA ALVAREZ	aalvar20	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/3/2019	90	0	0	0		0	comments					1	1	BB
+8705	SLS1106	AILE MONTOYA	amontoy3	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments					1	1	BB
+8707	SLS1106	AILE MONTOYA	amontoy3	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments					1	1	BB
+16705	SLS1106	ANEISAH CASTRO	acastro5	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/3/2019	90	0	0	0		0	comments					1	1	BB
+16706	SLS1106	ANEISAH CASTRO	acastro5	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/3/2019	90	0	0	0		0	comments					1	1	BB
+8683	SLS1106	MARTA PACIOS	mpacios	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments					1	1	BB
+8706	SLS1106	MARTA PACIOS	mpacios	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments					1	1	BB
+10388	SLS1106	THEOLA BLAKLEY-MOORE	tmoore2	0	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments					1	1	BB
+10389	SLS1106	THEOLA BLAKLEY-MOORE	tmoore2	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/3/2019	90	0	0	0		0	comments					1	1	BB
+8786	SBM1000	HOA BURROWS	hburrows	1	1	2/4/2019	2/6/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local) - Module 3 Exam	Proctored Midterm Exam (Local) - Module Exam 2 Proctored Exam (Remote) - Module Exam 2			1	1	BB
+6974	REL2300	JACQUELYN LOFTUS	jloftus	1	1	2/27/2019	3/1/2019	100	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+9673	REL1240	JACQUELYN LOFTUS	jloftus	1	1	2/27/2019	3/1/2019	90	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+6976	REL1210	JACQUELYN LOFTUS	jloftus	1	1	2/27/2019	3/1/2019	100	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm ( R )			1	1	BB
+7437	REA0007	AILE MONTOYA	amontoy3	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	1	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+2281	QMB2100L	JOSE LOPEZ-CALLEJA	jlopezca	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+2101	QMB2100	JOSE LOPEZ-CALLEJA	jlopezca	1	1	3/4/2019	3/6/2019	75	1	1	0	Open PDF(tables). Open/Use Excel	1	4/26/2019	4/30/2019	120	1	1	0	Open PDF- Open/Use Excel	0	comments	Proctored Midterm - Module 2 Exam  Ch 6  7 8 (Local)	Proctored Midterm - Module 2 Exam Ch 6  7 8 (Remote)	Proctored Final Exam Ch 12 13 15 (Local)	Proctored Final Exam Ch 121315 (Remote)	1	1	BB
+6055_6056	PUR2003	EUGENE PONS	epons	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm (Local)	Midterm (Remote)			1	1	BB
+7751	PSY2012	EVELYN DIAZ	ediaz	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+10382	PSY2012	EVELYN DIAZ	ediaz	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7742	PSY2012	JUDY SALVATIERRA	jsalvat1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7747	PSY2012	KAY RUBIN	krubin	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7749	PSY2012	MINCA DAVIS BRANTLEY	mdavisbr	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+10385	PSY2012	NATALYA FATEYEVA	nfateyev	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7741_7743_7750	PSY2012	SUZANNE MIGNONE	smignone	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+8805	PSY2012	SUZANNE MIGNONE	smignone	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7788	PSY2012	TRINIDAD ARGUELLES	targuell	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+7277	PSC1515	SOUMIA SOUCHAK	ssouchak	1	1	2/25/2019	2/27/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+7273	PSC1515	TCHAO PODONA	tpodona	1	1	2/25/2019	2/27/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+7274	PSC1515	VICTORIA CASTELLS	vcastel1	1	1	2/25/2019	2/27/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+7275	PSC1515	YANET CUSIDO	ycusido	1	1	2/25/2019	2/27/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+7315	POS2112	MARION ROGERS	mrogers4	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	1	0	0		0	comments			Proctored Final (L)	Proctored Final ( R )	1	1	BB
+7347	POS2041	MARIA GONZALEZ LLANOS	mgonza35	1	1	2/27/2019	3/1/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Test (Proctored) (Local)	Module 2 Test (Proctored) (Remote)			1	1	BB
+7349	POS2041	MARIA GONZALEZ LLANOS	mgonza35	1	1	2/27/2019	3/1/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Test (Proctored) (Local)	Module 2 Test (Proctored) (Remote)			1	1	BB
+7355	POS2041	MARIA GONZALEZ LLANOS	mgonza35	1	1	2/27/2019	3/1/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Test (Proctored) (Local)	Module 2 Test (Proctored) (Remote)			1	1	BB
+7348_7350	POS2041	MELISSA BUEHLER	mbuehler	1	1	2/27/2019	3/1/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Test (Proctored) (Local)	Module 2 Test (Proctored) (Remote)			1	1	BB
+10379	POS2041	NATHALIA GILLOT	ngillot	0	1	2/27/2019	3/1/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Test (Proctored) (Local)	Module 2 Test (Proctored) (Remote)			1	1	BB
+5396	PLA2003	JENNY CUEVAS	jcuevas	1	1	2/25/2019	2/27/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)- Requires Respondus LockDown Browser	Proctored Misterm (Remote)			1	1	BB
+7208_7207	PHY1025	HECTOR PERALTA	hperalta	1	1	2/25/2019	2/27/2019	120	1	0	1	Protractor- Ruler	1	4/30/2019	5/2/2019	120	1	0	1	Protractor- Ruler	0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+10376	PHI2604	CHARLES ALFARONE	calfaron	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7088	PHI2604	CHRISTOPHER STABILE	cstabile	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7083	PHI2604	KRISTIN BORGWALD	kborgwal	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7085	PHI2604	KRISTIN BORGWALD	kborgwal	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+10373	PHI2604	LUIS FONSECA	lfonsec1	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7095	PHI2604	MICHAEL MANNINO	mmannino	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7087	PHI2604	MICHAEL SUTHERLAND	msutherl	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+10374	PHI2604	MICHAEL SUTHERLAND	msutherl	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7091	PHI2604	NENAD POPOVIC	npopovic	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7090	PHI2604	ROBERT ROBINSON	rrobinso	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7092	PHI2604	ROBERT ROBINSON	rrobinso	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7096	PHI2604	RYAN LAKE	rlake	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7082	PHI2604	SABRINA JAMIL	sjamil	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7084	PHI2604	SABRINA JAMIL	sjamil	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7086	PHI2604	SABRINA JAMIL	sjamil	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7089	PHI2604	TAMARA SIEGEL	tsiegel	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Final Examination (L)	Final Examination (R)	1	1	BB
+7010	PHI2010	AMY LUND	alund	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7011	PHI2010	CHARLES ALFARONE	calfaron	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7013	PHI2010	CHARLES ALFARONE	calfaron	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7021	PHI2010	CHRISTOPHER STABILE	cstabile	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7014	PHI2010	LUIS FONSECA	lfonsec1	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7016	PHI2010	MICHAEL MANNINO	mmannino	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7018	PHI2010	NENAD POPOVIC	npopovic	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7019	PHI2010	ROBERT ROBINSON	rrobinso	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7015	PHI2010	RYAN LAKE	rlake	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+7020	PHI2010	TAMARA SIEGEL	tsiegel	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments	Proctored Midterm (local)		Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+6906	OST2335	STACEY WADLE	swadle	0	1	2/25/2019	2/27/2019	60	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)			1	1	BB
+4330	OCE1001	DAVID FINNERAN	dfinnera	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4329	OCE1001	MARK CHIAPPONE	mchiappo	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4323	OCE1001	RENE REVUELTA	rrevuelt	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4328	OCE1001	RENE REVUELTA	rrevuelt	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10367	OCE1001	RENE REVUELTA	rrevuelt	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+6499	NUR4827	ANDREW FRADOS	afrados	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	90	1	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+9998	NUR4827	ANDREW FRADOS	afrados	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	90	1	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+6507	NUR4667	ELISA RODRIGUEZ 	erodrig8	1	1	3/4/2019	3/6/2019	120	1	0	0	Open PDF	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	roctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+6508	NUR4667	ELISA RODRIGUEZ 	erodrig8	1	1	3/4/2019	3/6/2019	120	1	0	0	Open PDF	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	roctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+6502_6503	NUR4636	MARIE ETIENNE	metienne	1	1	3/4/2019	3/6/2019	75	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)			1	1	BB
+6500	NUR3846	VIOLETA AGUILAR-FIGULY	vaguilar	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	120	1	0	0		0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+6501	NUR3846	VIOLETA AGUILAR-FIGULY	vaguilar	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	120	1	0	0		0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+6511	NUR3805	VIOLETA AGUILAR-FIGULY	vaguilar	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	1	0	0		0	comments			Proctored Final Exam (L)	Proctored Final Exam ( R )	1	1	BB
+6512	NUR3805	VIOLETA AGUILAR-FIGULY	vaguilar	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	1	0	0		0	comments			Proctored Final Exam (L)	Proctored Final Exam ( R )	1	1	BB
+6506	NUR3289	ANDREW FRADOS	afrados	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	1	0	0		0	comments			Proctored Final Exam (L)	Proctored Final Exam ( R )	1	1	BB
+6505	NUR3178	CLARA TORRES	ctorres2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+6509	NUR3165	ROXANA ORTA	rorta1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	1	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+6510	NUR3165	ROXANA ORTA	rorta1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	1	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+6573_6574	NUR3069	MARIE ETIENNE	metienne	1	1	3/6/2019	3/8/2019	60	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+6571_6572	NUR3045	DEBORAH ROBINSON	drobinso	1	1	3/4/2019	3/6/2019	90	1	0	0	Open PDF	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)			1	1	BB
+5308	MUL2380	RICHARD FLEISCHMAN	rfleisch	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0	Headphones- Speakers	0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5309	MUL2380	RUTH GALATAS	rgalatas	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0	Headphones- Speakers	0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5280	MUL1010	RICHARD FLEISCHMAN	rfleisch	1	1	3/4/2019	3/6/2019	120	0	0	0	Headphones	1	4/26/2019	4/30/2019	120	0	0	0	Headphones	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5277_5278	MUL1010	SUSAN EPSTEIN GARCIA	sepstein	1	1	3/4/2019	3/6/2019	120	0	0	0	Headphones	1	4/26/2019	4/30/2019	120	0	0	0	Headphones	0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5942	MTB1103	CHRISTINE BALMORI	cbalmori	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	0	Open PDF (tables)	0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10454	MNA2120	REWAL ALONSO	ralonso1	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+8688_10366	MNA1345	NAYRIE SMITH	nsmith2	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Assessment (local)	Proctored Assessments (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+2131	MKA1161	RUTH BARROW	rbarrow	1	1	3/4/2019	3/6/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+2280	MKA1041	MAYVE MUNOZ	mmunoz3	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+2093	MKA1021	MAYVE MUNOZ	mmunoz3	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments			Final Proctored (Local)	Final Proctored (Remote)	1	1	BB
+5488_5489	MGF1107	ELIZABETH NICOLI-SUCO	esuco	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+10364	MGF1107	ERIC HERNANDEZ	eherna13	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+5490	MGF1107	IAN COBHAM	icobham	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+5491	MGF1107	IAN COBHAM	icobham	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+10363	MGF1107	MARTA BRITO-VILLANI	mbritovi	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+5644_5649	MGF1106	ELIANE KEANE	ekeane	1	1	3/4/2019	3/6/2019	90	1	1	1		1	4/26/2019	4/30/2019	90	1	1	1		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5648	MGF1106	JUAN PRIETO-VALDES	jprietov	1	1	3/4/2019	3/6/2019	90	1	1	1		1	4/26/2019	4/30/2019	90	1	1	1		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5646	MGF1106	KATALIN PAIZS	kpaizs	1	1	3/4/2019	3/6/2019	90	1	1	1		1	4/26/2019	4/30/2019	90	1	1	1		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10361	MGF1106	MARIA MONTES DE OCA	mmontesd	1	1	3/4/2019	3/6/2019	90	1	1	1		1	4/26/2019	4/30/2019	90	1	1	1		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+9527	MGF1106	ROBERTO CABEZAS	rcabezas	1	1	3/4/2019	3/6/2019	90	1	1	1		1	4/26/2019	4/30/2019	90	1	1	1		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+1989	MCB2010	AVNER ITTAH	aittah	1	1	3/4/2019	3/6/2019	70	0	0	0		1	4/30/2019	5/2/2019	70	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+1988	MCB2010	MARIA GUERRERO	mguerrer	1	1	3/4/2019	3/6/2019	70	0	0	0		1	4/30/2019	5/2/2019	70	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+1986_1987	MCB2010	MEERA NAIR	mnair	1	1	3/4/2019	3/6/2019	70	0	0	0		1	4/30/2019	5/2/2019	70	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+5872_5873	MAT1033	ALINA CORONEL	acoronel	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+5875	MAT1033	BELARMINO GONZALEZ	bgonzal7	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+5878	MAT1033	ERIKA ZJEVIK	ezjevik	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+5879	MAT1033	JYRKO CORREA	jcorrea7	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+10360	MAT1033	LOURDES GONZALEZ	lgonzal2	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+5874	MAT1033	NANCY LIU	nliu	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+10359	MAT1033	SAISNATH RICKHI	srickhi	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+5880	MAT1033	VINCENT BATES	vbates	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/30/2019	5/2/2019	90	1	1	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)	Proctored Final (local)	Proctored Final (remote)	1	1	BB
+7485	MAT0028	LAURENCE CHERNOFF	lchernof	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	1	0	0		0	comments			Final Exam (Local)	Final Exam (remote)	1	1	BB
+7450	MAT0028	NANCY LIU	nliu	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	1	0	0		0	comments			Final Exam (Local)	Final Exam (remote)	1	1	BB
+2169	MAR1011	BARBARA ROSENTHAL	brosenth-r	1	1	3/6/2019	3/8/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+2170	MAR1011	MICKEY SOLOMON	msolomo1	0	1	3/6/2019	3/8/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+2279	MAR1011	STACEY WADLE	swadle	0	1	2/4/2019	2/6/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10365	MAN4941	SANDRA TORRES	storres4	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+2278	MAN4900	VERONICA RAMSUNDAR	vramsund	0	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+10356	MAN4894	MARIE LOUBEAU	mloubeau	1	1	2/4/2019	2/6/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+2276	MAN4720	MARIE LOUBEAU	mloubeau	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments			Module 4 Exam - Proctored Final (Local)	Module 4 Exam - Proctored Final (Remote)	1	1	BB
+11051	MAN4520	RICHARD SARABIA	rsarabi1	1	1	2/4/2019	2/6/2019	90	1	0	0		1	2/26/2019	2/28/2019	90	1	0	0		0	comments					1	1	BB
+10354	MAN4162	CHARLESSA SMITH	csmith8	0	1	2/4/2019	2/6/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Exam (Midterm) - Chapters 5 - 8 (local)	Module 2 Exam (Midterm) - Chapters 5 - 8 (remote)			1	1	BB
+2274	MAN4120	SANDRA TORRES	storres4	1	1	2/4/2019	2/6/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module Exam #2 - Midterm (Local)	Module Exam #2 - Midterm (Remote)			1	1	BB
+2273	MAN3506	RICHARD SARABIA	rsarabi1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	90	1	0	0	Scientific Calculator	0	comments			Proctored Exam (R)	Proctored Exam (L)	1	1	BB
+8675	MAN3301	VERONICA RAMSUNDAR	vramsund	0	1	2/4/2019	2/6/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam Chapters 1 - 7 (Local)	Midterm Exam Chapters 1 - 7 (Remote)			1	1	BB
+10349	MAN3240	STEVE HOPE	shope	0	1	2/4/2019	2/6/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Exam 1(Midterm) - Chapters 1- 8 (local)	Exam 1(Midterm) - Chapters 1- 8 (remote)			1	1	BB
+8817	MAN3065	CHARLESSA SMITH	csmith8	0	1	2/4/2019	2/6/2019	60	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments	Exam 2 - Midterm Exam (Local	Exam 2 - Midterm Exam (Remote	Exam 4 - Final Exam (Local)	Exam 4 - Final Exam (Remote)	1	1	BB
+2184	MAN3065	RAHNUMA AHSAN	rahsan	1	1	2/4/2019	2/6/2019	60	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments	Exam 2 - Midterm Exam (Local	Exam 2 - Midterm Exam (Remote	Exam 4 - Final Exam (Local)	Exam 4 - Final Exam (Remote)	1	1	BB
+2272	MAN3025	GISELLE MCKNIGHT	gmcknigh	0	1	2/4/2019	2/6/2019	120	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments	Proctored Midterm - Exam 2 (Local)	Proctored Midterm - Exam 2 (Remote)	Proctored Final - Exam 4 (Local)	Proctored Final - Exam 4 (Remote)	1	1	BB
+2271	MAN2604	RODOLFO RIVAS	rrivas	0	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Exam - Midterm Chapters 4 - 7  (Local)	Module 2 Exam  - Midterm Chapters 4 - 7 (Remote)			1	1	BB
+10452	MAN2300	JEANIE LISENBY	jlisenby	0	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	0	0	0	0		0	comments					1	1	BB
+2110	MAN2021	BONNIE NICHOLLS	bnicholl	0	1	2/25/2019	2/27/2019	120	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm ( R)			1	1	BB
+2111	MAN2021	MICKEY SOLOMON	msolomo1	0	1	2/4/2019	2/6/2019	120	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm ( R)			1	1	BB
+2109	MAN2021	RICKY CARABALLO	rcarabal	1	1	2/25/2019	2/27/2019	120	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm ( R)			1	1	BB
+10342	MAC2233	ANUBIS DE LAMA LI	adelamal	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+5943	MAC2233	ERIC PHILIAS	ephilias	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+5452	MAC2233	JOSE SERPA	jserpa	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+5451	MAC2233	YANILDA ESPINAL	yespinal	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+5418	MAC1147	ALINA CORONEL	acoronel	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Proctored Midterm Exam (L)	Proctored Midterm Exam ( R)	Proctored Final Exam (L) 2015-3	Proctored Final Exam (R) 2015-3	1	1	BB
+10341	MAC1147	JUAN PRIETO-VALDES	jprietov	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Proctored Midterm Exam (L)	Proctored Midterm Exam ( R)	Proctored Final Exam (L) 2015-3	Proctored Final Exam (R) 2015-3	1	1	BB
+5419	MAC1147	LUIS BELTRAN	lbeltran	1	1	3/4/2019	3/6/2019	90	1	0	1		1	4/26/2019	4/30/2019	90	1	0	1		0	comments	Proctored Midterm Exam (L)	Proctored Midterm Exam ( R)	Proctored Final Exam (L) 2015-3	Proctored Final Exam (R) 2015-3	1	1	BB
+5620_5621	MAC1140	ELIZABETH NICOLI-SUCO	esuco	1	1	3/4/2019	3/6/2019	120	1	1	0		1	4/26/2019	4/30/2019	120	1	1	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+5510	MAC1114	NELSON DE LA ROSA	ndelaro1	1	1	3/4/2019	3/6/2019	90	1	1	0	Open PDF	1	4/26/2019	4/30/2019	90	1	1	0	Open PDF	0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+10339	MAC1114	ROBERTO CABEZAS	rcabezas	1	1	3/4/2019	3/6/2019	90	1	1	0	Open PDF	1	4/26/2019	4/30/2019	90	1	1	0	Open PDF	0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+5755	MAC1105	ABDEL-RIDA SALEH	asaleh	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5753_5754	MAC1105	ADELAIDA QUESADA	aquesada	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5759	MAC1105	DAVID TSENG	dtseng	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5756_10338	MAC1105	JEFFREY MIRANDA	jmirand2	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5764	MAC1105	KEYSNER BOET	kboet	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5762	MAC1105	LAZARA FERRER	lferrer2	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+10337	MAC1105	LUIS BELTRAN	lbeltran	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5763	MAC1105	LUIS RODRIGUEZ	lrodri25	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5760	MAC1105	MARIA MONTES DE OCA	mmontesd	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5761	MAC1105	MIGUEL MONTANEZ	mmontane	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5758	MAC1105	NELSON DE LA ROSA	ndelaro1	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5757	MAC1105	RANDY SMITH	rsmith5	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+5765	MAC1105	VICTORIA GOFORTH	vgoforth	1	1	3/4/2019	3/6/2019	90	1	1	0		1	4/26/2019	4/30/2019	90	1	1	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+3693_4191	LIT2480	EMILY SENDIN	esendin	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)			1	1	BB
+10333	LIT2120	ALLISON THOMAS JOHNSON	athomasj	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10450	LIT2000	ALLISON THOMAS JOHNSON	athomasj	1	1	3/6/2019	3/8/2019	60	1	0	0	FALSE	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm (R)			1	1	BB
+10451	LIT2000	KATRINA SMITH	ksmith5	1	1	3/6/2019	3/8/2019	60	1	0	0	FALSE	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm (R)			1	1	BB
+11054	LIT2000	KIMBERLY CARTER	kcarter1	1	1	3/6/2019	3/8/2019	60	1	0	0	FALSE	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm (R)			1	1	BB
+5405	LIS2004	BETH CLOUES	bcloues	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments			Proctored Exam (R)	Proctored Exam (L)	1	1	BB
+5404	LIS2004	MARIA CASADO	mcasado	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments			Proctored Exam (R)	Proctored Exam (L)	1	1	BB
+7866	ISS1161	MILDRED ROQUETA	mroqueta	1	1	2/27/2019	3/1/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm [R}			1	1	BB
+7979	ISS1161	SHANNON KENNEDY	skenned1	1	1	2/27/2019	3/1/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (L)	Proctored Midterm [R}			1	1	BB
+7896	ISS1120	MAGALI RUBIO	mrubio	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	70	1	0	0		0	comments			Proctored Final Exam (Test 6) Local	Proctored Final Exam (Test 6) Remote	1	1	BB
+7897	ISS1120	NATHALIA GILLOT	ngillot	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	70	1	0	0		0	comments			Proctored Final Exam (Test 6) Local	Proctored Final Exam (Test 6) Remote	1	1	BB
+7977	ISS1120	PATRICIA SCHWARTZ	pschwart-r	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	70	1	0	0		0	comments			Proctored Final Exam (Test 6) Local	Proctored Final Exam (Test 6) Remote	1	1	BB
+7892_7893_7894	ISS1120	PATTI HARRIS	pharris	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	70	1	0	0		0	comments			Proctored Final Exam (Test 6) Local	Proctored Final Exam (Test 6) Remote	1	1	BB
+7895	ISS1120	PATTI HARRIS	pharris	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	70	1	0	0		0	comments			Proctored Final Exam (Test 6) Local	Proctored Final Exam (Test 6) Remote	1	1	BB
+8704	ISM4011	JULIAN HARRIS	jharris4	0	1	2/4/2019	2/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam  Chapters 1  3  4 & 5 (local)	Midterm Exam  Chapters 1  3  4 & 5 (remote)			1	1	BB
+6494	HUN1201	DANIEL ESTAPE	destape	0	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6470	HUN1201	ILIDA MEDERO	imedero	0	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6465_6466_6468	HUN1201	OLUBISI FAOYE	ofaoye	1	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6469	HUN1201	OLUBISI FAOYE	ofaoye	1	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6463_6464_6467	HUN1201	ROSA POLANCO-PAULA	rpolanco	1	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6471	HUN1201	SHALON BULL	sbull	0	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6472	HUN1201	SHALON BULL	sbull	0	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+6493	HUN1201	VICTORIA JACKSON	vjackson	0	1	2/27/2019	3/1/2019	90	1	1	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5226_5230_8798	HUM1020	CLAUDIO OSORIO	cosorio	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5231	HUM1020	GISELLE REAL D ARBELLES	grealdar	0	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5224	HUM1020	JOANN FALCO-LESHIN	jfalco	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5229	HUM1020	JOANN FALCO-LESHIN	jfalco	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+8797	HUM1020	JOANN FALCO-LESHIN	jfalco	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10327	HUM1020	JOANN FALCO-LESHIN	jfalco	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10325	HUM1020	JOSE DONIS	jdonis	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10328	HUM1020	JOSE DONIS	jdonis	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5316	HUM1020	MARC MAGELLAN	mmagell1	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5228_5233	HUM1020	ROBERT REMEK	rremek	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5227_10326_5232	HUM1020	SERGIO GONZALEZ	sgonzal5	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+5054	HSC0003	DONNA FISHKIN	dfishkin	1	1	2/27/2019	3/1/2019	120	1	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4958	HIM2472	LASHAWN LAWRENCE	llawren1	1	1	2/27/2019	3/1/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4972_4973	HIM2472	LESLYE DANGLADE	ldanglad	1	1	2/27/2019	3/1/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4971	HIM2433	MARY WORSLEY	mworsley	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	90	0	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+4968	HIM0434	CHRISTINE DUNDAS	cdundas	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+5114	HFT1210	BETSY GOMEZ	bgomez1	0	1	2/27/2019	3/1/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local Proctored)	Midterm Exam (Remote Proctored)	Final Exam (Local Proctored)	Final Exam (Remote Proctored)	1	1	BB
+5121	HFT1000	PAMELA WILLIAMS	pwillia6	1	1	2/27/2019	3/1/2019	60	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+2079	GEB2112	GLADYS WILLS	gwills	0	1	2/25/2019	2/27/2019	100	1	1	1		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+8814	GEB1011	ELISA FERNANDEZ	efernan2	1	1	2/4/2019	2/6/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Exam - Midterm Exam (Local)	Module 2 Exam - Midterm Exam (Remote)			1	1	BB
+2206_2207_2208	GEB1011	ILEANA PORGES	iporgesw	1	1	2/25/2019	2/27/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Module 2 Exam - Midterm Exam (Local)	Module 2 Exam - Midterm Exam (Remote)			1	1	BB
+1579	FIN3400	PATRICK DULCIO	pdulcio	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	0	1	1		0	comments	Module Exam 3 - Proctored Midterm (local)	Module Exam 3 - Proctored Midterm (Remote)			1	1	BB
+1574	FIN2000	PATRICK DULCIO	pdulcio	1	1	3/4/2019	3/6/2019	75	1	1	0	Open PDF- Open/Use Excel	1	4/26/2019	4/30/2019	90	1	1	0	Open PDF- Open/Use Excel	0	comments	Midterm (Module 2 Test)  Ch 9 10 18 (Local)	Midterm (Module 2 Test) Ch 9 10 18 (Remote)	Final Exam (Module 4 Test) (Local)	Final Exam (Module 4 Test) (Remote)	1	1	BB
+1577	FIN2000	PATRICK DULCIO	pdulcio	1	1	3/4/2019	3/6/2019	75	1	1	0	Open PDF- Open/Use Excel	1	4/26/2019	4/30/2019	90	1	1	0	Open PDF- Open/Use Excel	0	comments	Midterm (Module 2 Test)  Ch 9 10 18 (Local)	Midterm (Module 2 Test) Ch 9 10 18 (Remote)	Final Exam (Module 4 Test) (Local)	Final Exam (Module 4 Test) (Remote)	1	1	BB
+8796	FIN2000	REWAL ALONSO	ralonso1	0	1	3/4/2019	3/6/2019	75	1	1	0	Open PDF- Open/Use Excel	1	4/26/2019	4/30/2019	90	1	1	0	Open PDF- Open/Use Excel	0	comments	Midterm (Module 2 Test)  Ch 9 10 18 (Local)	Midterm (Module 2 Test) Ch 9 10 18 (Remote)	Final Exam (Module 4 Test) (Local)	Final Exam (Module 4 Test) (Remote)	1	1	BB
+8696	EVR1001	CHRISTOPHER MIGLIACCIO	cmigliac	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments					1	1	BB
+8700_10317	EVR1001	DAVID MOORE	dmoore	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments					1	1	BB
+8697_8699_8701	EVR1001	THERESA CHORMANSKI	tchorman	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments					1	1	BB
+8698	EVR1001	VICTOR OKOH	vokoh	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments					1	1	BB
+10318	EVR1001	VICTOR OKOH	vokoh	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	0	0	0	0		0	comments					1	1	BB
+10314	ESC1000	DAVID FINNERAN	dfinnera	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+10316	ESC1000	DAVID FINNERAN	dfinnera	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+10315	ESC1000	JORGE MORALES	jmoral7	0	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+8692	ESC1000	JOSE BARROS	jbarros	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+8693	ESC1000	JOSE BARROS	jbarros	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+10313	ESC1000	JOSE BARROS	jbarros	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm Exam (Local)	roctored Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+4190	ENC2300	ELENA PEREZ-MIRABAL	eperezmi	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)			1	1	BB
+4186	ENC2300	PHILIP LANE	plane	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)			1	1	BB
+4187	ENC2300	PHILIP LANE	plane	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (remote)			1	1	BB
+4074	ENC1102	ARIEL GONZALEZ	agonzal2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4083	ENC1102	CARMEN MISE	cmise	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+8795	ENC1102	CARMEN MISE	cmise	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4063_4072	ENC1102	ELENA PEREZ-MIRABAL	eperezmi	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4068_4078	ENC1102	IVONNE LAMAZARES	ilamaza1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4071_4082_8794	ENC1102	JAVIER DUENAS	jduenas1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4066	ENC1102	JOSE BLANCO	jblanco	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4076	ENC1102	JOSE BLANCO	jblanco	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4086	ENC1102	JOSE BLANCO	jblanco	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4065	ENC1102	KELLY KENNEDY-EVERETT	kkennedy	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4075	ENC1102	KELLY KENNEDY-EVERETT	kkennedy	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4085	ENC1102	KELLY KENNEDY-EVERETT	kkennedy	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4070_4081_4185	ENC1102	MARINA RODRIGUEZ	mrodri35	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4064	ENC1102	MARLENE CUETO	mcueto	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4073	ENC1102	MARLENE CUETO	mcueto	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4084	ENC1102	MARLENE CUETO	mcueto	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4069_4080_4088	ENC1102	SABRINA WALTERS	swalter1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4079	ENC1102	STEVE KRONEN	skronen	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+4067_4077_4087	ENC1102	WENDY GOODWIN	wgoodwi1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	120	1	0	0		0	comments			Proctored Final Essay (local)	Proctored Final Essay (remote)	1	1	BB
+3815	ENC1101	CARMEN MISE	cmise	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+3810	ENC1101	CHRISTINE ROBINSON	crobinso	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10304	ENC1101	CYNTHIA WATKINS	cwatkins	0	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+3818_3814_4181	ENC1101	DAVID HEREDIA	dheredia	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+4184	ENC1101	ISABEL RODRIGUEZ-DEHMER	irodrig4	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10299	ENC1101	ISABEL RODRIGUEZ-DEHMER	irodrig4	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+4180	ENC1101	IVONNE LAMAZARES	ilamaza1	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10303	ENC1101	KATHLEEN NOONAN	knoonan	1	1	2/4/2019	2/6/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+3811_3816_3819	ENC1101	MARIA GARCIA	mgarcia7	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+10300	ENC1101	MICHELLE RILEY	mriley	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+8793	ENC1101	RAQUEL ZALDIVAR	rzaldiva-r	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+4183	ENC1101	SABRINA WALTERS	swalter1	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+3809_3812	ENC1101	VICTOR CALDERIN	vcalderi	1	1	3/6/2019	3/8/2019	120	1	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+7397	ENC0025	MARISOL VARELA	mvarela	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	1	0	0		0	comments			Proctored Final (local)	Proctored Final (remote)	1	1	BB
+3539	EME2040	JASMINE DIAZ	jdiaz14	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+3483	EME2040	MARLENE MORALES	mmorale1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+10448	EGI4301	JASMINE DIAZ	jdiaz14	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	1	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+3457_3458	EDF2085	ANNMARIE MASI	amasi	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (remote)	Proctored Final (Local	Proctored Final (remote)	1	1	BB
+3460	EDF2085	LUCIA OBREGON	lobregon	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (remote)	Proctored Final (Local	Proctored Final (remote)	1	1	BB
+3537	EDF1005	AILE MONTOYA	amontoy3	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+3500	EDF1005	ANNMARIE MASI	amasi	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+3538	EDF1005	CHRISTINA MUELLE	cmuelle	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+3499	EDF1005	JESSICA ESPINOSA	jespino2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	90	0	0	0		0	comments			Final Exam (local)	Final Exam (remote)	1	1	BB
+3431	ECO2301	JEOVANNY PONTON	jponton	1	1	2/27/2019	3/1/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)			1	1	BB
+3338_10293	ECO2023	JOSE LOPEZ-CALLEJA	jlopezca	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+3335_3336_3337	ECO2023	ROBERT FORAN	rforan	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+3339	ECO2023	RODOLFO RIVAS	rrivas	0	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+10294	ECO2023	RODOLFO RIVAS	rrivas	0	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Proctored Midterm Exam (local)	Proctored Midterm Exam (Remote)	Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+3398_3399_3400	ECO2013	ANA CORRALES	acorrale	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+3403	ECO2013	CARLOS MORALES	cmorale5	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+3401	ECO2013	FRANCISCO LARIOS	flarios	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+3404	ECO2013	FRANCISCO LARIOS	flarios	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+3430	ECO2013	FRANCISCO LARIOS	flarios	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+10291	ECO2013	FRANCISCO LARIOS	flarios	1	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+3402	ECO2013	NICHOLAS BERGAN	nbergan	0	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+10292	ECO2013	NICHOLAS BERGAN	nbergan	0	1	2/27/2019	3/1/2019	90	1	0	1		1	4/24/2019	4/26/2019	90	1	0	1		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+4395	EAP1660	STEPHEN JOHNSON	sjohnso2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Proctored Final (L)	Proctored Final ?	1	1	BB
+4551	EAP1640L	IRASEMA FERNANDEZ	ifernand	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	90	0	0	0		0	comments			Proctored Final (L)	Proctored Final (R)	1	1	BB
+4515	EAP1640	IRASEMA FERNANDEZ	ifernand	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	1	0	0		0	comments			Proctored Final (L)	Proctored Final ( R )	1	1	BB
+4505	EAP1620	HELEN ROLAND	hroland	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	120	0	0	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+4688	EAP1600L	KATHLEEN BIACHE	kbiache	1	1	3/4/2019	3/6/2019	90	1	0	0	Headphones	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (local)	Proctored Midterm (remote)			1	1	BB
+4628	EAP1600	KATHLEEN BIACHE	kbiache	1	1	3/4/2019	3/6/2019	90	1	0	0	Headphones	0	1/1/2013	1/1/2013	0	1	0	0	Headphones	0	comments	Proctored Midterm (local)	Proctored Midterm (remote)			1	1	BB
+3159	DSC1006	MARY DOUGLAS	mdouglas	0	1	2/25/2019	2/27/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10289	DEP2000	JESSYCA PEREZ	jperez11	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7664	DEP2000	MAYTE INSUA-AUAIS	minsuaau	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7669	DEP2000	MAYTE INSUA-AUAIS	minsuaau	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7786	DEP2000	MAYTE INSUA-AUAIS	minsuaau	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7661	DEP2000	MILDRED ROQUETA	mroqueta	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7665	DEP2000	MINCA DAVIS BRANTLEY	mdavisbr	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7670	DEP2000	MINCA DAVIS BRANTLEY	mdavisbr	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7663	DEP2000	NAZIRA BARRY	nbarry	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7666	DEP2000	SHANNON KENNEDY	skenned1	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7784	DEP2000	SHANNON KENNEDY	skenned1	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+7662_7667	DEP2000	YULY POMARES	ypomares	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+3007	CTS1134	DIEGO TIBAQUIRA	dtibaqui	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	90	0	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+2628	COP2800	HIEN NGUYEN	hnguyen	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	75	0	0	0		0	comments			FINAL PROCTOR EXAM (LOCAL)	FINAL PROCTOR EXAM (REMOTE)	1	1	BB
+2685	COP1334	LAWRENCE MEYER	lmeyerjr	1	1	3/4/2019	3/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+3000	COP1332	NANNETTE BIBBY	nbibby	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments			Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+7537	CLP2140	ARLEN GARCIA	agarcia6	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+7790	CLP2140	IGOR BELOKON	ebelokon	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+7534	CLP2140	MIRIAM FRANCES ABETY	mabety	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	0	0	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+7586	CLP1006	EMILIA GOODFRIEND	egoodfri	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7585	CLP1006	JESSYCA PEREZ	jperez11	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7781	CLP1006	JESSYCA PEREZ	jperez11	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7587	CLP1006	MARIANA MOLINA	mmolina5	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7581	CLP1006	MILDRED ROQUETA	mroqueta	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7582	CLP1006	MILDRED ROQUETA	mroqueta	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7588	CLP1006	SHERYL HARTMAN	shartman	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7782	CLP1006	TRINIDAD ARGUELLES	targuell	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7590	CLP1006	VALERIE DE ANGELIS	vdeangel	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+7589	CLP1006	VELLISSE GRIMES	vgrimes	1	1	3/4/2019	3/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10286	CLP1006	VELLISSE GRIMES	vgrimes	1	1	2/4/2019	2/6/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+8678	CJL3044	LEAH SHEAF	lsheaf	1	1	2/4/2019	2/6/2019	90	0	0	0		1	2/26/2019	2/28/2019	90	0	0	0		0	comments	Midterm (Proctored) - L	Midterm (Proctored) - R	Final (Proctored ) - L-Requires Respondus LockDown Browser	Final (Proctored ) - R	1	1	BB
+3200	CJL2062	JAMES SPANN	jspann	1	1	2/25/2019	2/27/2019	80	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3156	CJL1100	JAMES SPANN	jspann	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Final Exam ( Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3157	CJL1100	LEAH SHEAF	lsheaf	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Final Exam ( Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3197	CJJ2002	NORMA DIEPPA	ndieppa	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/24/2019	4/26/2019	60	0	0	0		0	comments			Proctored Exam #3 (Local)	Proctored Exam #3 (Remote)	1	1	BB
+3229	CJE3574	CARYN HORWITZ	chorwitz	1	1	2/4/2019	2/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Exam #1)/Local	Proctored Midterm (Exam #1)/Remote			1	1	BB
+10288	CJE3115	NORMA DIEPPA	ndieppa	0	1	2/4/2019	2/6/2019	60	0	0	0		1	2/26/2019	2/28/2019	75	0	0	0		0	comments	Proctered Midterm Exam (Local)	Proctered Midterm Exam (Remote)	Proctored Final Exam (Local)	Proctored Final Exam (Remote)	1	1	BB
+3167	CJE2600	NERISSA JAMES	njames1	0	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+8703	CJE1640	SHARON PLOTKIN	splotkin	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/26/2019	4/30/2019	60	0	0	0		0	comments					1	1	BB
+16709	CJC1162	ANNA LEGGETT	aleggett	0	1	2/25/2019	2/27/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3141	CJC1162	NANCY ALLEYNE	nalleyne	1	1	2/25/2019	2/27/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3215	CJC1000	SAMANTHA CARLO	scarlo1	1	1	2/4/2019	2/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3216	CJC1000	SAMANTHA CARLO	scarlo1	1	1	2/25/2019	2/27/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+10444	CIS2331	JORGE PRENDES	jprendes	0	1	3/6/2019	3/8/2019	0	0	0	0		1	4/26/2019	4/30/2019	0	0	0	0		0	comments					1	1	BB
+10279	CGS3763	NELLY DELESSY	ndelessy	1	1	3/4/2019	3/6/2019	120	1	0	0	Open PDF	0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+2633	CGS2091	RAPHAEL DE ARAZOZA	rdearazo	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	75	0	0	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+10277	CGS1540C	ALICIA IBARRA	aibarra	1	1	2/27/2019	3/1/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam (Local)	Proctored Midterm Exam (Remote)			1	1	BB
+2797	CGS1060C	ALICIA IBARRA	aibarra	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+10271	CGS1060C	ALICIA IBARRA	aibarra	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2787_2802	CGS1060C	CHRISTOPHER CORBIN	ccorbin	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+10269	CGS1060C	DAVID FREER	dfreer	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2796	CGS1060C	EUGENE KINNAIRD	ekinnair	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2795	CGS1060C	FELIX LOPEZ	flopez	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2786_2801	CGS1060C	FLOYD PITTMAN	fpittman	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2790	CGS1060C	HIEN NGUYEN	hnguyen	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2794_10265	CGS1060C	JAMES POE	jpoe	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2800	CGS1060C	JAVIER COTO	jcoto	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2793_2992	CGS1060C	JUAN MARTINEZ	jmarti20	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2788_2803	CGS1060C	LAWRENCE MEYER	lmeyerjr	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2799	CGS1060C	NELLY DELESSY	ndelessy	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2784_2785	CGS1060C	RAPHAEL DE ARAZOZA	rdearazo	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2798	CGS1060C	RODOLFO CRUZ	rcruz2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2791	CGS1060C	SERGIO COBO	scobo	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2789_2804	CGS1060C	W. BARRY ANDREWS	wandrews	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+2792	CGS1060C	YING SONG	ysong	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/30/2019	5/2/2019	60	0	0	0		0	comments			Final Proctored Exam (Local)	Final Proctored Exam (Remote)	1	1	BB
+11029	CGS1005C	JULIAN HARRIS	jharris4	0	1	3/4/2019	3/6/2019	0	0	0	0		0	1/1/2013	1/1/2013	90	0	0	0		0	comments					1	1	BB
+8694	CCJ4660	ELIZABETH BUCHHOLZ	ebuchhol	1	1	2/4/2019	2/6/2019	60	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm Exam	Proctored Midterm Exam (Remote)			1	1	BB
+3224	CCJ3700	SHAWN SCHWANER	sschwane	1	1	2/4/2019	2/6/2019	90	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)			1	1	BB
+8687	CCJ3663	CARYN HORWITZ	chorwitz	1	1	2/4/2019	2/6/2019	70	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Mid-Term Exam (Proctored)Local- Requires Respondus LockDown Browser	Mid-Term Exam (Proctored) Remote			1	1	BB
+3190	CCJ3032	SHAWN SCHWANER	sschwane	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3223	CCJ2650	ANNA LEGGETT	aleggett	0	1	2/25/2019	2/27/2019	100	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3138	CCJ2650	SELENA RESPASS	srespass	1	1	2/25/2019	2/27/2019	100	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB
+3149	CCJ1191	SHARON PLOTKIN	splotkin	1	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3150	CCJ1191	SUSANNA BELLO	sbello	0	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10255	CCJ1020	RONALD MORALES	rmoral3	0	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3222	CCJ1020	SELENA RESPASS	srespass	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3177	CCJ1020	SHARON PLOTKIN	splotkin	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3176	CCJ1020	ZULFIKAR KALAM	zkalam	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3208	CCJ1010	CARYN HORWITZ	chorwitz	1	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+3211	CCJ1010	NANCY ALLEYNE	nalleyne	1	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10254	CCJ1010	NERISSA JAMES	njames1	0	1	2/25/2019	2/27/2019	90	0	0	0		1	4/30/2019	5/2/2019	90	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+8792	BUL2241	JAMES SPANN	jspann	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Proctored Exam (Local)	Midterm Proctored Exam (Remote)			1	1	BB
+5375	BUL2241	JENNY CUEVAS	jcuevas	1	1	3/6/2019	3/8/2019	120	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Proctored Exam (Local)	Midterm Proctored Exam (Remote)			1	1	BB
+1722_1723_1724	BSC2086L	LUIS LABISTE	llabiste	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1725	BSC2086L	MARISA MADISON	mmadison	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1720_1721	BSC2086L	NIDIA ROMER	nromer	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1931	BSC2086	AMARILYS CARMONA	acarmona	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+8811	BSC2086	CARLOS RUIZ	cruiz1	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1932	BSC2086	LUIS LABISTE	llabiste	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1933	BSC2086	MARIA CENDON	mcendon	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+10251	BSC2086	MARISA MADISON	mmadison	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1929_1930	BSC2086	NIDIA ROMER	nromer	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1659	BSC2085L	DONALD MASER	dmaser	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1663_1661_8810	BSC2085L	LARRY FROLICH	lfrolich	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1662	BSC2085L	MARISA MADISON	mmadison	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+2011	BSC2085L	RICHARD PORRO	rporro	0	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+1894_1891	BSC2085	ALFONSO PINO	apino	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote )	1	1	BB
+2010	BSC2085	ANN MARIE MILLAR	amillar	0	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote )	1	1	BB
+1892_1895	BSC2085	MARIA CENDON	mcendon	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote )	1	1	BB
+1893	BSC2085	MARISA MADISON	mmadison	1	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote )	1	1	BB
+2009	BSC2085	RICARDO SILVA GUAL	rsilvagu	0	1	3/4/2019	3/6/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote )	1	1	BB
+1846	BSC2010	EDWIN GINES-CANDELARIA	egines	1	1	2/25/2019	2/27/2019	90	0	0	0		1	4/26/2019	4/30/2019	90	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)	Final Exam (Local)	Final Exam (Remote)	1	1	BB
+2007	BSC1005	ALFREDO LEON	aleon6	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1786	BSC1005	CARLOS RUIZ	cruiz1	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1787	BSC1005	CATALINA ARISTIZABAL	caristiz	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1783_10243	BSC1005	DAVID MOORE	dmoore	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1781_8790	BSC1005	DONALD MASER	dmaser	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+2008	BSC1005	JANET DOWDING	jdowding	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1785_10245	BSC1005	JUAN MORATA	jmorata	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+8789	BSC1005	KENDRA MERCHANT	kmerchan	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+10244	BSC1005	MARLENE MORALES	mmorale1	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+1782	BSC1005	VICTORIA ZUSMAN	vzusman	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+10242	BSC1005	VICTORIA ZUSMAN	vzusman	1	1	2/25/2019	2/27/2019	120	0	0	0		1	4/26/2019	4/30/2019	120	0	0	0		0	comments	Proctored Midterm Examination (local)	Proctored Midterm Examination (remote)	Proctored Final Examination (local)	Proctored Final Examination (remote)	1	1	BB
+10262_10263	ARH1000	SMITHA MATHEWS	sking1	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+8689_8690_8691	ARH1000	TAURIE GITTINGS-WHEELER	tgitting	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+9741	ARC2701	JOSE VAZQUEZ	jvazque1	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	60	0	0	0		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+10460_10461	ANT2000	BENJAMIN AUGUSTYN	baugusty	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	60	1	0	0		0	comments			Proctored Final Exam (Local)	Proctored Assessment (Remote)	1	1	BB
+5003	AMH2020	CARMEN LOPEZ	clopez2	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+5004	AMH2020	CARMEN LOPEZ	clopez2	1	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+5037	AMH2020	MAGDALENA LAMARRE	mlamarre-r	0	1	3/6/2019	3/8/2019	120	0	0	0		1	4/30/2019	5/2/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+10260	AMH2020	PABLO GOMEZ	pgomez2	0	1	2/4/2019	2/6/2019	120	0	0	0		1	2/26/2019	2/28/2019	120	0	0	0		0	comments	Proctored Midterm (Local)	Proctored Midterm (Remote)	Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+5035	AMH2010	ALEXIS SOTO	asoto2	0	1	3/6/2019	3/8/2019	90	0	0	0	None	1	4/30/2019	5/2/2019	90	0	0	0	None	0	comments	Proctored Midterm (LCL)	Proctored Midterm (RMTte)	Proctored Final (LCL)	Proctored Final (RMT)	1	1	BB
+10258	AMH2010	ALEXIS SOTO	asoto2	0	1	2/4/2019	2/6/2019	90	0	0	0	None	1	2/26/2019	2/28/2019	90	0	0	0	None	0	comments	Proctored Midterm (LCL)	Proctored Midterm (RMTte)	Proctored Final (LCL)	Proctored Final (RMT)	1	1	BB
+5020	AMH2010	CARMEN LOPEZ	clopez2	1	1	3/6/2019	3/8/2019	90	0	0	0	None	1	4/30/2019	5/2/2019	90	0	0	0	None	0	comments	Proctored Midterm (LCL)	Proctored Midterm (RMTte)	Proctored Final (LCL)	Proctored Final (RMT)	1	1	BB
+5028	AMH2010	PABLO SIMON	psimon	0	1	3/6/2019	3/8/2019	90	0	0	0	None	1	4/30/2019	5/2/2019	90	0	0	0	None	0	comments	Proctored Midterm (LCL)	Proctored Midterm (RMTte)	Proctored Final (LCL)	Proctored Final (RMT)	1	1	BB
+1180	ACG2450	JOSE HORTENSI	jhortens	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	0		0	comments			Proctored Final (Local)	Proctored Final (Remote)	1	1	BB
+10241	ACG2071L	DARREN TENN YUK	dtennyuk	0	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1099	ACG2071L	MARIA MARI	mmari	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1100	ACG2071L	NELSON GOMEZ	ngomez	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+10240	ACG2071L	NELSON GOMEZ	ngomez	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1071	ACG2071	DARREN TENN YUK	dtennyuk	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1	Open PDF (PVIF and PVIFA tables)	0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+1120	ACG2071	DARREN TENN YUK	dtennyuk	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1	Open PDF (PVIF and PVIFA tables)	0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+1070	ACG2071	MARIA MARI	mmari	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1	Open PDF (PVIF and PVIFA tables)	0	comments			Proctored Final Exam (local)	Proctored Final Exam (remote)	1	1	BB
+1121	ACG2031	MARTHA CAVALARIS	mcavalar	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1125	ACG2021L	JAMES CAVALARIS	jcavalar	0	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+10236	ACG2021L	JAMES CAVALARIS	jcavalar	0	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1006	ACG2021L	NELSON GOMEZ	ngomez	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1007	ACG2021L	NELSON GOMEZ	ngomez	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1124	ACG2021L	NELSON GOMEZ	ngomez	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1029	ACG2021	COLLEEN CHUNG	cchung-r	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+1031	ACG2021	ELISA FERNANDEZ	efernan2	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+1119	ACG2021	JAMES CAVALARIS	jcavalar	0	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+1030_10235_1118	ACG2021	JOSE HORTENSI	jhortens	1	0	1/1/2013	1/1/2013	0	0	0	0		1	4/22/2019	4/24/2019	120	1	1	1		0	comments			Final Exam (Local)	Final Exam (Remote)	1	1	BB
+1122	ACG2001L	MARTHA CAVALARIS	mcavalar	1	0	1/1/2013	1/1/2013	0	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments					1	1	BB
+1107	ACG2001	MARTHA CAVALARIS	mcavalar	1	0	1/1/2013	1/1/2013	0	0	0	0		1	2/26/2019	2/28/2019	120	1	1	0		0	comments	Midterm Exam (local)	Midterm Exam (remote)	Final Exam (local)	Final Exam (remote)	1	1	BB
+11053	Mar-50	STACEY WADLE	swadle	0	1	3/4/2019	3/6/2019	75	0	0	0		0	1/1/2013	1/1/2013	0	0	0	0		0	comments	Midterm Exam (Local)	Midterm Exam (Remote)			1	1	BB

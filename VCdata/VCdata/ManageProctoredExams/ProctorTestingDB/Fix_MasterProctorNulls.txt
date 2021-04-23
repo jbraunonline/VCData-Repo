@@ -1,0 +1,17 @@
+﻿Use VC_VCData
+
+  update [VC_VCData].[dbo].[MasterProctor]   set PF_ANXMTR = ''   where  PF_ANXMTR is null;
+  
+  update [VC_VCData].[dbo].[MasterProctor]   set PM_ANXMTR = ''   where  PM_ANXMTR is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set midnotes = ''   where  midnotes is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set finalnotes = ''   where  finalnotes is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set MidNameL = ''   where  MidNameL is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set MidNameR = ''   where  MidNameR is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set FinalNameL = ''   where  FinalNameL is null;
+
+  update [VC_VCData].[dbo].[MasterProctor]   set FinalNameR = ''   where  FinalNameR is null;

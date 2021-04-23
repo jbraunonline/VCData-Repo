@@ -1,0 +1,37 @@
+﻿This is a general oveview of the steps necessary to setup the faculty portal to verifiy Proctored Exams.
+
+General Oveview{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+While the CMR and BBCourses tables track individual courses, proctored exams must accomodate for SYNCHED courses.
+   we do this by putting courses into FAMILIES.  A Family is a collection of Parent and CHild courses.
+   When the faculty go to verify their exam settings, they are actually verifying the settings for the PARENT course. Child courses are ignored.
+   Courses that are stand alone are considered a family of one.
+   .
+   The process is to first identify the families. We have Lester give us a list of parent/child courses directly from the BB database. this gives us the actual families. The Data from Wendy may not be accurate.
+   So for both the Faculty Exam Verification, and the Proctored Exam settings (for copy team and ProctorU) The BASE DATA is in the dbo.MasterProctor table wher everything keys on the course FAMILY.
+
+   After preparing a list of families we update the BBCourses table to reflect what actually exists in BB. (the copy application is supposed to track families, but Wendy may have inaccurate parentchild courses in the BBCourses table
+   After the BBCourses parent/child data is correct, we then import the CHILD courses to the dbo.MasterProctor table,  Each child course becomes a family with a single course in the family.
+
+   So the beginning step of this process is to create a table (dbo.MasterProctor) with only the families of courses that will be used for both faculty verification (in the faculty portal) and base data to prepare for exam setups and ProctorU.
+   So the  MasterProctor table starts off llike this (1st line is a synched family 2nd line is a standalone single course that lists itself af the family)
+   FamilyString	        	Parent	
+2207-8792,2207-10601	2207-8792   - two courses in this family with the first course listed as the parent
+2207-20101	                2207-20101  - stand alone course that lists itself as the parent
+
+Once we have an accurate MasterProctor table, we add course, insructor, and exam data. This becomes the KEY table for both verification (faculty can modify in portal) 
+
+When this is done, we open the table up to faculty to veify/modify the exam settings.
+
+After the  faculy modify and we verify the faculty changes, this data is used for the distribution of exam data for setup, testing centers, and ProctorU
+
+So the general overview is
+1. Create a table of courses organized by FamilyString and Parents
+2. Add course, faculty, and exam data
+3. Open that table up to faculty to verify/modify
+4. Close the form to stop faculty from making changes
+5. Review the faculty changes  -- they may have added bogus values
+6. Release reports of the data to the copy team, testing centers, and ProctorU
+
+This is done twice each term. Once for the full and first sessions and again for the second session. The reason we cannot do this all at once is that 
+there are many additions and changes to the second sesion after we release date for the first sessions. (new courses, instructor changes, session changes, dates, etc.)

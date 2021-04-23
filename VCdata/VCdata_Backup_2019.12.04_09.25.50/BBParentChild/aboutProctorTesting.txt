@@ -1,0 +1,15 @@
+﻿This form can update values to MasterProctorTesting and MasterProctorTesting_BU
+The _BU table is used by students to view uupcoming proctored exam dates (proctor/myproctor.aspx)  This data should be posted  BEFORE exam data is selected by faculty and verified
+   by the content delivery team. 
+
+   For this form to work, the MasterProctor data must exist for the term and
+			null values removed fromMidNameL, MidNameR, FinalNameL and FinalNameR and PM_ANXMTR PF_ANXMTR 
+			use VC_VCData
+			Update dbo.MasterProctor
+			set PM_ANXMTR = ''
+			where
+			PM_ANXMTR is NULL
+
+			Run the Preview before SaveData to make sure all nulls are eliminated and no data is missing.
+			Once the Dates for the exams has been uploaded and the MasterProctor Table for the term has been created, we can loop through all the Sessions and Exams to give students access to dates
+			  I.e. run with Session1/Mid Session1/Final    Session8w1/mid Session8w1/Final   Session8w2/mid Session8w2/Final selections to completely populate data at start of term.

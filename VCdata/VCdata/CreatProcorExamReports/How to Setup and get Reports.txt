@@ -1,0 +1,21 @@
+﻿First, we need to add the passwords to the MasterExamDates tab;e
+Run AddPaswords.aspx
+
+Once the Passwords have been entered, you can generate the Reports for the setup team.
+BUT sometimes the proctoredExamDates table is missing data for new or pilot courses;
+
+So before generating any reportsl. please run this sql query to find courses wiith missing date and password data
+
+use VC_VCData
+select distinct course from MasterProctor where term = '2213'
+and masterproctor.course not in (select distinct course from MasterExamDates where term = '2213')
+
+This guarantees that we have exam date and password data for all courses in the MasterProctor table.
+
+The problem with ProctorU is that they need a record for each course, but the MasterProctor table goes by Families of multiple courses.
+So we need to create a new set of records for each child course that has the same settings as the parent course. 
+  Sometimes we find null db values in the MasterProctor Table after faculty have provided input. To prevent nulls from throwing errors when you run the reports, please
+  There may have been apostrophes added by faculty in the mid or final notes entryl Those unhandled apostrophies caused a sql fail and we had missing info.
+   I changed the sql in the editing page to [MidNotes] = Replace(@MidNotes, '''', '') Note: must use double single quotes in the find variable to to get sql to recognize command
+   Replace(variable, single single single single comma single single)
+To do that we run the InputProctorTesting DB.aspx

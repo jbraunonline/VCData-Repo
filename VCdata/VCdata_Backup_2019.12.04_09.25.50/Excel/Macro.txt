@@ -1,0 +1,409 @@
+Public Valor1, Valor2, Valor3, Valor4, Valor5, Valor6 As Integer
+Public Valor7, Valor8, Valor9, Valor10, Valor11, Valor12 As Integer
+Public Sheetname1 As String
+
+Public Workbookname2 As String
+
+Public Workbookname1 As String
+
+
+
+
+
+Public Sub OpenNewBox()
+Dim xFilePath As String
+Dim xObjFD As FileDialog
+'----------------------------------------------------------------------------------
+'------- On Opening Clear any existing Content on the Dash Board--------------------
+'-----------------------------------------------------------------------------------
+   Range("B2:C24").Select
+   Selection.ClearContents
+'------------------------------------------------------------------------------
+' ---------------- Select the file using Windows Dialog Box --------------------
+'-------------------------------------------------------------------------------
+Set xObjFD = Application.FileDialog(msoFileDialogFilePicker)
+  With xObjFD
+        .AllowMultiSelect = False
+        .Filters.Add "Excel Files", "*.xls; *.xlsx; *.xlsm; *.xlsb", 1
+        .Show
+        If .SelectedItems.Count > 0 Then
+            xFilePath = .SelectedItems.Item(1)
+        Else
+            Exit Sub
+        End If
+    End With
+    Workbooks.Open xFilePath
+        Workbookname1 = ActiveWorkbook.Name
+        
+ ' --- End of File dialog Box-------
+ 
+    MsgBox Workbookname1
+  '-----------------------------------------------------------
+  ' Functions
+  '-------------------------------------------------------------
+    Call Unhide_Columns ' ----------------- Unfilter and unhiding
+    Call Create_Temp_Copy_Content  '------- Copy Desired Columns to Temporary Sheet Named "Temp"
+    'Call Highlight_The_Bad_Players ' -------For Testing Purposes only, color codes the rows containing special characters
+    Call Deploy_Formulas           ' -------The formulas will calculate the number of special characters in a Column
+    Call dumping                   ' -------Transfers the value of global variables from the first excecution to b able to use the same function again
+    Call Find_and_Replace_Routine  ' -------Replaces special Characters from spreadsheet
+    Call Deploy_Formulas           ' -------Same Routine now verifing the number of special characters after cleanup
+    Call Change_Dates              ' -------Changes dates to m/dd/yyyy format
+    Call Delete_Row1               ' -------Deletes first Row (Column header Names)
+    Call Save_CSV                 ' -------Saves file as CSV to the current working directory keeping the same name as the source file
+    Call Display_Results          ' -------Populates the Template with the number of special characters before and after cleanup for verification purposes.
+    Call Center_Values            ' ------ Venters the values on screen for better visualization.
+    End
+End Sub
+
+
+Private Sub Unhide_Columns()
+'
+' Unhide_Columns Macro
+ Dim WS As Worksheet
+For Each WS In Sheets
+    If LCase(WS.Name) Like "*schedule*" Then
+        WS.Select
+        MsgBox WS.Name
+        Sheetname1 = WS.Name
+    End If
+   
+Next
+     Range("A:CT").Select
+    Selection.Columns.Hidden = False
+
+   Rows("1:1").Select
+    If (ActiveSheet.AutoFilterMode And ActiveSheet.FilterMode) Or ActiveSheet.FilterMode Then
+  ActiveSheet.ShowAllData
+End If
+MsgBox "Unfiltering Complete"
+End Sub
+
+
+Private Sub Create_Temp_Copy_Content()
+  Dim i As Integer
+    Sheets.Add
+    ActiveSheet.Name = "Temp"
+    Sheets(Sheetname1).Select
+    MsgBox Sheetname1
+    Range("B:B,G:G,H:H,I:I,J:J,K:K,L:L,M:M,S:S,T:T,U:U,W:W,ak:ak,BJ:BJ,BL:BL,BM:BM,BP:BP,BQ:BQ,BR:BR:BS:BS,CC:CC").Select
+    Selection.Copy
+    Sheets("Temp").Select
+    ActiveSheet.Paste
+    i = Cells(Sheets("Temp").Rows.Count, 1).End(xlUp).Row
+   MsgBox i & "  Rows expected"
+End Sub
+
+
+ Private Sub Find_and_Replace_Routine()
+'
+' Find_and_Replace_Routine Macro
+'
+
+'
+    Sheets("Temp").Select
+    Columns("E:E").Select
+    Selection.Replace What:="'", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+    Columns("N:N").Select
+    Selection.Replace What:="'", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+    Columns("O:O").Select
+    Selection.Replace What:="'", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+    Columns("P:P").Select
+    Selection.Replace What:="'", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+      '----------------------------------------------------------------------------------
+    Columns("N:N").Select
+    Selection.Replace What:=",", Replacement:="$", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+    Columns("R:R").Select
+    Selection.Replace What:=",", Replacement:="$", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+     Columns("O:O").Select
+    Selection.Replace What:=",", Replacement:="$", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+        
+        '----------------------------------------------------------------------------------
+        
+        'Full Time/ part Time / TBA
+        '------------------------------------------------------------------------
+
+        
+    Columns("T:T").Select
+    Selection.Replace What:="#N/A", Replacement:="TBA", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+    Columns("T:T").Select
+    Selection.Replace What:="n", Replacement:="ADJ", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+        
+    Columns("T:T").Select
+    Selection.Replace What:="y", Replacement:="FULL", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+    
+    Columns("T:T").Select
+    Selection.Replace What:="", Replacement:="TBA", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+   
+        
+        '-------------------------------------------------------------------------------------
+        '-------------Global Replacements---------------------------------------------------
+        '------------------------------------------------------------------------------------
+      Range("A:U").Select
+      Selection.Replace What:="#N/A", Replacement:=" ", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+        Range("A:U").Select
+        Selection.Replace What:="'", Replacement:=" ", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+        Range("A:U").Select
+        Selection.Replace What:=",", Replacement:="$", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+        
+  End Sub
+Private Sub Change_Dates()
+'
+' Change_Dates Macro
+
+    Sheets("Temp").Select
+    Columns("J:J").Select
+    Selection.NumberFormat = "m/dd/yyyy;@"
+    Columns("K:K").Select
+    Selection.NumberFormat = "m/dd/yyyy;@"
+End Sub
+
+
+
+
+Private Sub Delete_Row1()
+   
+    Sheets("Temp").Select
+    Rows("1:1").Select
+    Selection.Delete Shift:=xlUp
+End Sub
+
+Private Sub Save_CSV()
+Dim MyPATH As String
+Dim FileNAME As String
+    MyPATH = ActiveWorkbook.Path
+    FileNAME = ActiveWorkbook.Name
+    FileNAME = Left(FileNAME, Len(FileNAME) - 4) '  REMOVE  XLS  EXTENSION
+    FileNAME = FileNAME & "csv"                 '  ADD  CSV  EXTENSION
+    Application.DisplayAlerts = False           ' REMOVE  DISPLAY MESSAGE: PREVIOUS FILE WILL BE ERASED
+    ActiveWorkbook.SaveAs FileNAME:= _
+        MyPATH & "\" & FileNAME, FileFormat:=xlCSV, _
+        CreateBackup:=False
+    ActiveWindow.Close
+    Application.DisplayAlerts = True           ' RESTORE  DISPLAY MESSAGE
+        
+End Sub
+
+
+    
+ Private Sub Highlight_The_Bad_Players()
+
+    Columns("A:U").Select
+    Selection.FormatConditions.Add Type:=xlTextString, String:="'", _
+        TextOperator:=xlContains
+    Selection.FormatConditions(Selection.FormatConditions.Count).SetFirstPriority
+    With Selection.FormatConditions(1).Interior
+        .PatternColorIndex = xlAutomatic
+        .Color = 5296274
+        .TintAndShade = 0
+    End With
+    
+    Selection.FormatConditions(1).StopIfTrue = False
+    Selection.FormatConditions.Add Type:=xlTextString, String:=",", _
+        TextOperator:=xlContains
+    Selection.FormatConditions(Selection.FormatConditions.Count).SetFirstPriority
+    With Selection.FormatConditions(1).Font
+        .Color = -16383844
+        .TintAndShade = 0
+    End With
+    With Selection.FormatConditions(1).Interior
+        .PatternColorIndex = xlAutomatic
+        .Color = 13551615
+        .TintAndShade = 0
+    End With
+ 
+    
+  End Sub
+  
+  
+  Private Sub Deploy_Formulas()
+  
+  Sheets("Temp").Select
+  Dim lastRow2 As Long
+  lastRow2 = Range("A" & Rows.Count).End(xlUp).Row
+  
+      
+      Range("A:U").Select
+      Selection.Replace What:="#N/A", Replacement:=" ", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+    Columns("V:AB").Select
+    Selection.NumberFormat = "General"
+    '-----------------------------------------------------------------
+    Range("V2").Select
+    Range("V2").Formula = "=LEN($E2)-LEN(SUBSTITUTE($E2,""'"",""""))"
+    Selection.AutoFill Destination:=Range("V2:V" & lastRow2)
+    'MsgBox lastRow2
+    
+    ' -----------------------------------------------------------------
+      
+    Range("W2").Select
+    Range("W2").Formula = "=LEN($N2)-LEN(SUBSTITUTE($N2,""'"",""""))"
+    Selection.AutoFill Destination:=Range("W2:W" & lastRow2)
+    
+    '------------------------------------------------------------------
+    
+    
+    Range("X2").Select
+    Range("X2").Formula = "=LEN($O2)-LEN(SUBSTITUTE($O2,""'"",""""))"
+    Selection.AutoFill Destination:=Range("X2:X" & lastRow2)
+    
+    '-----------------------------------------------------------------
+    
+  
+    Range("Y2").Select
+    Range("Y2").Formula = "=LEN($P2)-LEN(SUBSTITUTE($P2,""'"",""""))"
+    Selection.AutoFill Destination:=Range("Y2:Y" & lastRow2)
+    
+    
+    '-------------------------------------------------------------------
+    
+    Range("Z2").Select
+   Range("Z2").Formula = "=LEN($R2)-LEN(SUBSTITUTE($R2,"","",""""))"
+    Selection.AutoFill Destination:=Range("Z2:Z" & lastRow2)
+    
+    '-------------------------------------------------------------------
+    
+    Range("AA2").Select
+    Range("AA2").Formula = "=LEN($N2)-LEN(SUBSTITUTE($N2,"","",""""))"
+    Selection.AutoFill Destination:=Range("AA2:AA" & lastRow2)
+    
+    '------------------------------------------------------------------
+    ' Formula calculator
+    '-------------------------------------------------------------------
+    'Saving range values into array
+    '------------------------------------------------------------------
+    Dim Total As Integer
+    Dim DirArray1() As Variant ' Refers to Column N
+    Dim DirArray2() As Variant
+    Dim DirArray3() As Variant
+    Dim DirArray4() As Variant
+    Dim DirArray5() As Variant
+    Dim DirArray6() As Variant 'Refers to Column N
+    DirArray1 = Range("V2:V" & lastRow2).Value
+    DirArray2 = Range("W2:W" & lastRow2).Value
+    DirArray3 = Range("X2:X" & lastRow2).Value
+    DirArray4 = Range("Y2:Y" & lastRow2).Value
+    DirArray5 = Range("Z2:Z" & lastRow2).Value
+    DirArray6 = Range("AA2:AA" & lastRow2).Value
+    '------------------------------------------------------
+    'Counting total number of special Characters per Column
+    '-------------------------------------------------------
+    Valor1 = Application.WorksheetFunction.Sum(DirArray1)
+    Valor2 = Application.WorksheetFunction.Sum(DirArray2)
+    Valor3 = Application.WorksheetFunction.Sum(DirArray3)
+    Valor4 = Application.WorksheetFunction.Sum(DirArray4)
+    Valor5 = Application.WorksheetFunction.Sum(DirArray5)
+    Valor6 = Application.WorksheetFunction.Sum(DirArray6)
+    
+   
+    
+    
+    '---------------------------------------------------
+    ' Populating Template Column B
+    '---------------------------------------------------
+    
+    
+    
+    Columns("V:AA").Select
+    Selection.Delete Shift:=xlToLeft
+   
+    'Workbooks("Template").Activate
+    
+    
+    End Sub
+    
+     ' -----------------------------------------------------
+    '-------- dumping to Temporary variables
+    '------------------------------------------------------
+    
+    Private Sub dumping()
+    Valor7 = Valor1
+    Valor8 = Valor2
+    Valor9 = Valor3
+    Valor10 = Valor4
+    Valor11 = Valor5
+    Valor12 = Valor6
+    End Sub
+    
+    Private Sub Display_Results()
+    Sheets("Main").Select
+    Range("B7").Value = Valor7
+    Range("B16").Value = Valor8
+    Range("B17").Value = Valor9
+    Range("B18").Value = Valor10
+    Range("B20").Value = Valor11
+    '------------------------------
+    Range("C7").Value = Valor1
+    Range("C16").Value = Valor2
+    Range("C17").Value = Valor3
+    Range("C18").Value = Valor4
+    Range("C20").Value = Valor5
+                
+    End Sub
+
+Private Sub Center_Values()
+Sheets("Main").Select
+Range("B2:C24").Select
+With Selection
+        .HorizontalAlignment = xlCenter
+        .VerticalAlignment = xlBottom
+        .WrapText = False
+        .Orientation = 0
+        .AddIndent = False
+        .IndentLevel = 0
+        .ShrinkToFit = False
+        .ReadingOrder = xlContext
+        .MergeCells = False
+    End With
+    End Sub
+    
+    Sub Clean_Dashboard()
+     Range("B2:C24").Select
+     Selection.ClearContents
+    End Sub
+
+   
+   
+ 
+
